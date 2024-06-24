@@ -1,0 +1,1431 @@
+rename_node gameplay race_bin_15/15_1_1_circuit x/15_1_1_circuit
+rename_node gameplay race_bin_15/15_1_1_circuit/ai_cp1 x/15_1_1_circuit/ai_cp1
+rename_node gameplay race_bin_15/15_1_1_circuit/ai_cp2 x/15_1_1_circuit/ai_cp2
+rename_node gameplay race_bin_15/15_1_1_circuit/ai_cp3 x/15_1_1_circuit/ai_cp3
+rename_node gameplay race_bin_15/15_1_1_circuit/ai_cp4 x/15_1_1_circuit/ai_cp4
+rename_node gameplay race_bin_15/15_1_1_circuit/shortcut1 x/race_bin_15/15_1_1_circuit/shortcut1
+rename_node gameplay race_bin_15/15_1_1_circuit/shortcut2 x/race_bin_15/15_1_1_circuit/shortcut2
+rename_node gameplay race_bin_15/15_1_1_circuit/shortcut3 x/race_bin_15/15_1_1_circuit/shortcut3
+rename_node gameplay race_bin_15/15_1_1_circuit/shortcut4 x/race_bin_15/15_1_1_circuit/shortcut4
+rename_node gameplay race_bin_15/15_1_1_circuit/shortcut5 x/race_bin_15/15_1_1_circuit/shortcut5
+rename_node gameplay race_bin_15/15_1_1_circuit/startgrid x/race_bin_15/15_1_1_circuit/startgrid
+rename_node gameplay race_bin_15/15_1_1_circuit/finishline x/race_bin_15/15_1_1_circuit/finishline
+rename_node gameplay race_bin_15/engage/engagetrigger_circuit_15_1_1 x/race_bin_15/15_1_1_circuit/engage/engagetrigger_15_1_1
+rename_node gameplay race_bin_15/15_2_1_sprint x/15_2_1_sprint
+rename_node gameplay race_bin_15/15_2_1_sprint/ai_cp1 x/15_2_1_sprint/ai_cp1
+rename_node gameplay race_bin_15/15_2_1_sprint/ai_cp2 x/15_2_1_sprint/ai_cp2
+rename_node gameplay race_bin_15/15_2_1_sprint/ai_cp3 x/15_2_1_sprint/ai_cp3
+rename_node gameplay race_bin_15/15_2_1_sprint/ai_cp4 x/15_2_1_sprint/ai_cp4
+rename_node gameplay race_bin_15/15_2_1_sprint/ai_cp5 x/15_2_1_sprint/ai_cp5
+rename_node gameplay race_bin_15/15_2_1_sprint/ai_cp6 x/15_2_1_sprint/ai_cp6
+rename_node gameplay race_bin_15/15_2_1_sprint/ai_cp7 x/15_2_1_sprint/ai_cp7
+rename_node gameplay race_bin_15/15_2_1_sprint/cp_8 x/15_2_1_sprint/cp_8
+rename_node gameplay race_bin_15/15_2_1_sprint/cp_9 x/15_2_1_sprint/cp_9
+rename_node gameplay race_bin_15/15_2_1_sprint/cp_10 x/15_2_1_sprint/cp_10
+rename_node gameplay race_bin_15/15_2_1_sprint/shortcut1 x/race_bin_15/15_2_1_sprint/shortcut1
+rename_node gameplay race_bin_15/15_2_1_sprint/shortcut2 x/race_bin_15/15_2_1_sprint/shortcut2
+rename_node gameplay race_bin_15/15_2_1_sprint/startgrid x/race_bin_15/15_2_1_sprint/startgrid
+rename_node gameplay race_bin_15/15_2_1_sprint/finishline x/race_bin_15/15_2_1_sprint/finishline
+rename_node gameplay race_bin_15/15_2_1_sprint/wrongway x/race_bin_15/15_2_1_sprint/wrongway
+rename_node gameplay race_bin_15/engage/engagetrigger_sprint_15_2_1 x/race_bin_15/15_2_1_sprint/engage/engagetrigger_15_2_1
+rename_node gameplay race_bin_15/15_3_1_knockout x/15_3_1_knockout
+rename_node gameplay race_bin_15/15_3_1_knockout/ai_cp1 x/15_3_1_knockout/ai_cp1
+rename_node gameplay race_bin_15/15_3_1_knockout/ai_cp2 x/15_3_1_knockout/ai_cp2
+rename_node gameplay race_bin_15/15_3_1_knockout/ai_cp3 x/15_3_1_knockout/ai_cp3
+rename_node gameplay race_bin_15/15_3_1_knockout/ai_cp4 x/15_3_1_knockout/ai_cp4
+rename_node gameplay race_bin_15/15_3_1_knockout/ai_cp5 x/15_3_1_knockout/ai_cp5
+rename_node gameplay race_bin_15/15_3_1_knockout/startgrid x/race_bin_15/15_3_1_knockout/startgrid
+rename_node gameplay race_bin_15/15_3_1_knockout/finishline x/race_bin_15/15_3_1_knockout/finishline
+rename_node gameplay race_bin_15/engage/engagetrigger_knockout_15_3_1 x/race_bin_15/15_3_1_knockout/engage/engagetrigger_15_3_1
+rename_node gameplay race_bin_15/15_1_2_circuit x/15_1_2_circuit
+rename_node gameplay race_bin_15/15_1_2_circuit/ai_cp1 x/15_1_2_circuit/ai_cp1
+rename_node gameplay race_bin_15/15_1_2_circuit/ai_cp2 x/15_1_2_circuit/ai_cp2
+rename_node gameplay race_bin_15/15_1_2_circuit/ai_cp3 x/15_1_2_circuit/ai_cp3
+rename_node gameplay race_bin_15/15_1_2_circuit/ai_cp4 x/15_1_2_circuit/ai_cp4
+rename_node gameplay race_bin_15/15_1_2_circuit/ai_cp5 x/15_1_2_circuit/ai_cp5
+rename_node gameplay race_bin_15/15_1_2_circuit/ai_cp6 x/15_1_2_circuit/ai_cp6
+rename_node gameplay race_bin_15/15_1_2_circuit/ai_cp7 x/15_1_2_circuit/ai_cp7
+rename_node gameplay race_bin_15/15_1_2_circuit/shortcut1 x/race_bin_15/15_1_2_circuit/shortcut1
+rename_node gameplay race_bin_15/15_1_2_circuit/startgrid x/race_bin_15/15_1_2_circuit/startgrid
+rename_node gameplay race_bin_15/15_1_2_circuit/finishline x/race_bin_15/15_1_2_circuit/finishline
+rename_node gameplay race_bin_15/engage/engagetrigger_circuit_15_1_2 x/race_bin_15/15_1_2_circuit/engage/engagetrigger_15_1_2
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed x/15_1_1_circuit_reversed
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/ai_cp1 x/15_1_1_circuit_reversed/ai_cp1
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/ai_cp2 x/15_1_1_circuit_reversed/ai_cp2
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/ai_cp3 x/15_1_1_circuit_reversed/ai_cp3
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/ai_cp4 x/15_1_1_circuit_reversed/ai_cp4
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/shortcut1 x/race_bin_15/15_1_1_circuit_reversed/shortcut1
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/shortcut2 x/race_bin_15/15_1_1_circuit_reversed/shortcut2
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/shortcut3 x/race_bin_15/15_1_1_circuit_reversed/shortcut3
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/shortcut4 x/race_bin_15/15_1_1_circuit_reversed/shortcut4
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/shortcut5 x/race_bin_15/15_1_1_circuit_reversed/shortcut5
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/startgrid x/race_bin_15/15_1_1_circuit_reversed/startgrid
+rename_node gameplay race_bin_15/15_1_1_circuit_reversed/finishline x/race_bin_15/15_1_1_circuit_reversed/finishline
+rename_node gameplay race_bin_14/14_1_1_circuit x/14_1_1_circuit
+rename_node gameplay race_bin_14/14_1_1_circuit/ai_cp1 x/14_1_1_circuit/ai_cp1
+rename_node gameplay race_bin_14/14_1_1_circuit/ai_cp2 x/14_1_1_circuit/ai_cp2
+rename_node gameplay race_bin_14/14_1_1_circuit/ai_cp3 x/14_1_1_circuit/ai_cp3
+rename_node gameplay race_bin_14/14_1_1_circuit/ai_cp4 x/14_1_1_circuit/ai_cp4
+rename_node gameplay race_bin_14/14_1_1_circuit/ai_cp5 x/14_1_1_circuit/ai_cp5
+rename_node gameplay race_bin_14/14_1_1_circuit/shortcut1 x/race_bin_14/14_1_1_circuit/shortcut1
+rename_node gameplay race_bin_14/14_1_1_circuit/shortcut2 x/race_bin_14/14_1_1_circuit/shortcut2
+rename_node gameplay race_bin_14/14_1_1_circuit/shortcut4 x/race_bin_14/14_1_1_circuit/shortcut3
+rename_node gameplay race_bin_14/14_1_1_circuit/shortcut5 x/race_bin_14/14_1_1_circuit/shortcut4
+rename_node gameplay race_bin_14/14_1_1_circuit/14_1_1_startgrid x/race_bin_14/14_1_1_circuit/14_1_1_startgrid
+rename_node gameplay race_bin_14/14_1_1_circuit/14_1_1_finishline x/race_bin_14/14_1_1_circuit/14_1_1_finishline 
+rename_node gameplay race_bin_14/engage/engagetrigger_circuit_14_1_1 x/race_bin_14/14_1_1_circuit/engage/engagetrigger_14_1_1
+rename_node gameplay race_bin_14/14_2_1_sprint x/14_2_1_sprint
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp1 x/14_2_1_sprint/ai_cp1
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp2 x/14_2_1_sprint/ai_cp2
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp3 x/14_2_1_sprint/ai_cp3
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp4 x/14_2_1_sprint/ai_cp4
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp5 x/14_2_1_sprint/ai_cp5
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp6 x/14_2_1_sprint/ai_cp6
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp7 x/14_2_1_sprint/ai_cp7
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp8 x/14_2_1_sprint/ai_cp8
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp9 x/14_2_1_sprint/ai_cp9
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp10 x/14_2_1_sprint/ai_cp10
+rename_node gameplay race_bin_14/14_2_1_sprint/ai_cp11 x/14_2_1_sprint/ai_cp11
+rename_node gameplay race_bin_14/14_2_1_sprint/shortcut1 x/race_bin_14/14_2_1_sprint/shortcut1
+rename_node gameplay race_bin_14/14_2_1_sprint/shortcut2 x/race_bin_14/14_2_1_sprint/shortcut2
+rename_node gameplay race_bin_14/14_2_1_sprint/14_2_1_startgrid x/race_bin_14/14_2_1_sprint/14_2_1_startgrid
+rename_node gameplay race_bin_14/14_2_1_sprint/14_2_1_finishline x/race_bin_14/14_2_1_sprint/14_2_1_finishline 
+rename_node gameplay race_bin_14/14_2_1_sprint/wrongway x/race_bin_14/14_2_1_sprint/wrongway
+rename_node gameplay race_bin_14/engage/engagetrigger_sprint_14_2_1 x/race_bin_14/14_2_1_sprint/engage/engagetrigger_14_2_1
+rename_node gameplay race_bin_14/14_2_2_sprint x/14_2_2_sprint
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp1 x/14_2_2_sprint/ai_cp1
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp2 x/14_2_2_sprint/ai_cp2
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp3 x/14_2_2_sprint/ai_cp3
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp4 x/14_2_2_sprint/ai_cp4
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp5 x/14_2_2_sprint/ai_cp5
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp6 x/14_2_2_sprint/ai_cp6
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp7 x/14_2_2_sprint/ai_cp7
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp8 x/14_2_2_sprint/ai_cp8
+rename_node gameplay race_bin_14/14_2_2_sprint/ai_cp9 x/14_2_2_sprint/ai_cp9
+rename_node gameplay race_bin_14/14_2_2_sprint/shortcut1 x/race_bin_14/14_2_2_sprint/shortcut1
+rename_node gameplay race_bin_14/14_2_2_sprint/shortcut2 x/race_bin_14/14_2_2_sprint/shortcut2
+rename_node gameplay race_bin_14/14_2_2_sprint/14_2_2_startgrid x/race_bin_14/14_2_2_sprint/14_2_2_startgrid
+rename_node gameplay race_bin_14/14_2_2_sprint/14_2_2_finishline x/race_bin_14/14_2_2_sprint/14_2_2_finishline 
+rename_node gameplay race_bin_14/14_2_2_sprint/wrongway x/race_bin_14/14_2_2_sprint/wrongway
+rename_node gameplay race_bin_14/engage/engagetrigger_sprint_14_2_2 x/race_bin_14/14_2_2_sprint/engage/engagetrigger_14_2_2
+rename_node gameplay race_bin_14/14_3_1_lapknockout x/14_3_1_lapknockout
+rename_node gameplay race_bin_14/14_3_1_lapknockout/ai_cp1 x/14_3_1_lapknockout/ai_cp1
+rename_node gameplay race_bin_14/14_3_1_lapknockout/ai_cp2 x/14_3_1_lapknockout/ai_cp2
+rename_node gameplay race_bin_14/14_3_1_lapknockout/ai_cp3 x/14_3_1_lapknockout/ai_cp3
+rename_node gameplay race_bin_14/14_3_1_lapknockout/ai_cp4 x/14_3_1_lapknockout/ai_cp4
+rename_node gameplay race_bin_14/14_3_1_lapknockout/ai_cp5 x/14_3_1_lapknockout/ai_cp5
+rename_node gameplay race_bin_14/14_3_1_lapknockout/ai_cp6 x/14_3_1_lapknockout/ai_cp6
+rename_node gameplay race_bin_14/14_3_1_lapknockout/ai_cp7 x/14_3_1_lapknockout/ai_cp7
+rename_node gameplay race_bin_14/14_3_1_lapknockout/shortcut1 x/race_bin_14/14_3_1_lapknockout/shortcut1
+rename_node gameplay race_bin_14/14_3_1_lapknockout/14_3_1_startgrid x/race_bin_14/14_3_1_lapknockout/14_3_1_startgrid
+rename_node gameplay race_bin_14/14_3_1_lapknockout/14_3_1_finishline x/race_bin_14/14_3_1_lapknockout/14_3_1_finishline 
+rename_node gameplay race_bin_14/engage/engagetrigger_knockout_14_3_1 x/race_bin_14/14_3_1_lapknockout/engage/engagetrigger_14_3_1
+rename_node gameplay race_bin_14/14_4_1_tollbooth x/14_4_1_tollbooth
+rename_node gameplay race_bin_14/14_4_1_tollbooth/checkpoint1 x/race_bin_14/14_4_1_tollbooth/checkpoint1
+rename_node gameplay race_bin_14/14_4_1_tollbooth/checkpoint2 x/race_bin_14/14_4_1_tollbooth/checkpoint2
+rename_node gameplay race_bin_14/14_4_1_tollbooth/time_bonus_checkpoint1 x/race_bin_14/14_4_1_tollbooth/time_bonus_checkpoint1
+rename_node gameplay race_bin_14/14_4_1_tollbooth/checkpoint3 x/race_bin_14/14_4_1_tollbooth/checkpoint3
+rename_node gameplay race_bin_14/14_4_1_tollbooth/time_bonus_checkpoint2 x/race_bin_14/14_4_1_tollbooth/time_bonus_checkpoint2
+rename_node gameplay race_bin_14/14_4_1_tollbooth/checkpoint4 x/race_bin_14/14_4_1_tollbooth/checkpoint4
+rename_node gameplay race_bin_14/14_4_1_tollbooth/checkpoint5 x/race_bin_14/14_4_1_tollbooth/checkpoint5
+rename_node gameplay race_bin_14/14_4_1_tollbooth/shortcut1 x/race_bin_14/14_4_1_tollbooth/shortcut1
+rename_node gameplay race_bin_14/14_4_1_tollbooth/shortcut2 x/race_bin_14/14_4_1_tollbooth/shortcut2
+rename_node gameplay race_bin_14/14_4_1_tollbooth/shortcut4 x/race_bin_14/14_4_1_tollbooth/shortcut3
+rename_node gameplay race_bin_14/14_4_1_tollbooth/14_4_1_startgrid x/race_bin_14/14_4_1_tollbooth/14_4_1_startgrid
+rename_node gameplay race_bin_14/14_4_1_tollbooth/14_4_1_finishline x/race_bin_14/14_4_1_tollbooth/14_4_1_finishline 
+rename_node gameplay race_bin_14/14_4_1_tollbooth/wrongway x/race_bin_14/14_4_1_tollbooth/wrongway
+rename_node gameplay race_bin_14/14_4_1_tollbooth/14_4_1_finishline_reverse x/race_bin_14/14_4_1_tollbooth/14_4_1_finishline_reverse
+rename_node gameplay race_bin_14/14_4_1_tollbooth/14_4_1_startgrid_reverse x/race_bin_14/14_4_1_tollbooth/14_4_1_startgrid_reverse
+rename_node gameplay race_bin_14/engage/engagetrigger_tollbooth_14_4_1 x/race_bin_14/14_4_1_tollbooth/engage/engagetrigger_14_4_1
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit x/14_1_2_cellphone_circuit
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/ai_cp1 x/14_1_2_cellphone_circuit/ai_cp1
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/ai_cp2 x/14_1_2_cellphone_circuit/ai_cp2
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/ai_cp3 x/14_1_2_cellphone_circuit/ai_cp3
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/ai_cp4 x/14_1_2_cellphone_circuit/ai_cp4
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/ai_cp5 x/14_1_2_cellphone_circuit/ai_cp5
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/ai_cp6 x/14_1_2_cellphone_circuit/ai_cp6
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/ai_cp7 x/14_1_2_cellphone_circuit/ai_cp7
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/shortcut1 x/race_bin_14/14_1_2_cellphone_circuit/shortcut1
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/shortcut2 x/race_bin_14/14_1_2_cellphone_circuit/shortcut2
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/14_1_2_startgrid x/race_bin_14/14_1_2_cellphone_circuit/14_1_2_startgrid
+rename_node gameplay race_bin_14/14_1_2_cellphone_circuit/14_1_2_finishline x/race_bin_14/14_1_2_cellphone_circuit/14_1_2_finishline 
+rename_node gameplay race_bin_14/engage/engagetrigger_circuit_14_1_2 x/race_bin_14/14_1_2_cellphone_circuit/engage/engagetrigger_14_1_2
+rename_node gameplay race_bin_14/14_2_4_sprint x/14_2_4_sprint
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp1 x/14_2_4_sprint/ai_cp1
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp2 x/14_2_4_sprint/ai_cp2
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp3 x/14_2_4_sprint/ai_cp3
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp4 x/14_2_4_sprint/ai_cp4
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp5 x/14_2_4_sprint/ai_cp5
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp6 x/14_2_4_sprint/ai_cp6
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp7 x/14_2_4_sprint/ai_cp7
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp8 x/14_2_4_sprint/ai_cp8
+rename_node gameplay race_bin_14/14_2_4_sprint/ai_cp9 x/14_2_4_sprint/ai_cp9
+rename_node gameplay race_bin_14/14_2_4_sprint/shortcut1 x/race_bin_14/14_2_4_sprint/shortcut1
+rename_node gameplay race_bin_14/14_2_4_sprint/shortcut2 x/race_bin_14/14_2_4_sprint/shortcut2
+rename_node gameplay race_bin_14/14_2_4_sprint/14_2_4_startgrid x/race_bin_14/14_2_4_sprint/14_2_4_startgrid
+rename_node gameplay race_bin_14/14_2_4_sprint/14_2_4_finishline x/race_bin_14/14_2_4_sprint/14_2_4_finishline 
+rename_node gameplay race_bin_14/14_2_4_sprint/wrongway x/race_bin_14/14_2_4_sprint/wrongway
+rename_node gameplay race_bin_14/engage/engagetrigger_sprint_14_2_4 x/race_bin_14/14_2_4_sprint/engage/engagetrigger_14_2_4
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse x/15_2_1_sprint_reverse
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp1 x/15_2_1_sprint_reverse/ai_cp1
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp2 x/15_2_1_sprint_reverse/ai_cp2
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp3 x/15_2_1_sprint_reverse/ai_cp3
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp4 x/15_2_1_sprint_reverse/ai_cp4
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp5 x/15_2_1_sprint_reverse/ai_cp5
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp6 x/15_2_1_sprint_reverse/ai_cp6
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp7 x/15_2_1_sprint_reverse/ai_cp7
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp8 x/15_2_1_sprint_reverse/ai_cp8
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp9 x/15_2_1_sprint_reverse/ai_cp9
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/ai_cp10 x/15_2_1_sprint_reverse/ai_cp10
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/shortcut1 x/race_bin_14/15_2_1_sprint_reverse/shortcut1
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/shortcut2 x/race_bin_14/15_2_1_sprint_reverse/shortcut2
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/shortcut3 x/race_bin_14/15_2_1_sprint_reverse/shortcut3
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/startgrid x/race_bin_14/15_2_1_sprint_reverse/startgrid
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/finishline x/race_bin_14/15_2_1_sprint_reverse/finishline
+rename_node gameplay race_bin_14/15_2_1_sprint_reverse/wrongway x/race_bin_14/15_2_1_sprint_reverse/wrongway
+update_field gameplay menu_gate_carlot/zone_carlot_2 BinIndex 15
+update_field gameplay menu_gate_carlot/zone_carlot_3 BinIndex 15
+update_field gameplay menu_gate_customshop/zone_customshop_4 BinIndex 15
+update_field gameplay menu_gate_customshop/zone_customshop_5 BinIndex 15
+update_field gameplay menu_gate_customshop/zone_customshop_6 BinIndex 15
+update_field gameplay menu_gate_customshop/zone_customshop_7 BinIndex 15
+update_field gameplay menu_gate_customshop/zone_customshop_8 BinIndex 15
+update_field gameplay menu_gate_safehouse/zone_safehouse_2 BinIndex 15
+update_field gameplay menu_gate_safehouse/zone_safehouse_4 BinIndex 15
+update_field gameplay menu_gate_safehouse/zone_safehouse_5 BinIndex 15
+delete_field gameplay race_bin_15 Barriers
+delete_field gameplay race_bin_14 Barriers
+delete_field gameplay race_bin_13 Barriers
+delete_field gameplay race_bin_12 Barriers
+delete_field gameplay race_bin_11 Barriers
+delete_field gameplay race_bin_10 Barriers
+delete_field gameplay race_bin_09 Barriers
+rename_node gameplay  x/15_1_2_circuit race_bin_15/15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit CollectionName race_bin_15/15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit Name race_bin_15/15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit gameplayvault 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit Checkpoint[0] race_bin_15/15_1_1_circuit/ai_cp1
+rename_node gameplay x/15_1_2_circuit/ai_cp1 race_bin_15/15_1_1_circuit/ai_cp1
+change_vault gameplay race_bin_15/15_1_1_circuit/ai_cp1 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp1 Name race_bin_15/15_1_1_circuit/ai_cp1
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp1 CollectionName race_bin_15/15_1_1_circuit/ai_cp1
+update_field gameplay race_bin_15/15_1_1_circuit Checkpoint[1] race_bin_15/15_1_1_circuit/ai_cp2
+rename_node gameplay x/15_1_2_circuit/ai_cp2 race_bin_15/15_1_1_circuit/ai_cp2
+change_vault gameplay race_bin_15/15_1_1_circuit/ai_cp2 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp2 Name race_bin_15/15_1_1_circuit/ai_cp2
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp2 CollectionName race_bin_15/15_1_1_circuit/ai_cp2
+update_field gameplay race_bin_15/15_1_1_circuit Checkpoint[2] race_bin_15/15_1_1_circuit/ai_cp3
+rename_node gameplay x/15_1_2_circuit/ai_cp3 race_bin_15/15_1_1_circuit/ai_cp3
+change_vault gameplay race_bin_15/15_1_1_circuit/ai_cp3 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp3 Name race_bin_15/15_1_1_circuit/ai_cp3
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp3 CollectionName race_bin_15/15_1_1_circuit/ai_cp3
+update_field gameplay race_bin_15/15_1_1_circuit Checkpoint[3] race_bin_15/15_1_1_circuit/ai_cp4
+rename_node gameplay x/15_1_2_circuit/ai_cp4 race_bin_15/15_1_1_circuit/ai_cp4
+change_vault gameplay race_bin_15/15_1_1_circuit/ai_cp4 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp4 Name race_bin_15/15_1_1_circuit/ai_cp4
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp4 CollectionName race_bin_15/15_1_1_circuit/ai_cp4
+update_field gameplay race_bin_15/15_1_1_circuit Checkpoint[4] race_bin_15/15_1_1_circuit/ai_cp5
+rename_node gameplay x/15_1_2_circuit/ai_cp5 race_bin_15/15_1_1_circuit/ai_cp5
+change_vault gameplay race_bin_15/15_1_1_circuit/ai_cp5 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp5 Name race_bin_15/15_1_1_circuit/ai_cp5
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp5 CollectionName race_bin_15/15_1_1_circuit/ai_cp5
+update_field gameplay race_bin_15/15_1_1_circuit Checkpoint[5] race_bin_15/15_1_1_circuit/ai_cp6
+rename_node gameplay x/15_1_2_circuit/ai_cp6 race_bin_15/15_1_1_circuit/ai_cp6
+change_vault gameplay race_bin_15/15_1_1_circuit/ai_cp6 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp6 Name race_bin_15/15_1_1_circuit/ai_cp6
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp6 CollectionName race_bin_15/15_1_1_circuit/ai_cp6
+update_field gameplay race_bin_15/15_1_1_circuit Checkpoint[6] race_bin_15/15_1_1_circuit/ai_cp7
+rename_node gameplay x/15_1_2_circuit/ai_cp7 race_bin_15/15_1_1_circuit/ai_cp7
+change_vault gameplay race_bin_15/15_1_1_circuit/ai_cp7 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp7 Name race_bin_15/15_1_1_circuit/ai_cp7
+update_field gameplay race_bin_15/15_1_1_circuit/ai_cp7 CollectionName race_bin_15/15_1_1_circuit/ai_cp7
+update_field gameplay race_bin_15/15_1_1_circuit racestart race_bin_15/15_1_1_circuit/startgrid
+rename_node gameplay x/race_bin_15/15_1_2_circuit/startgrid race_bin_15/15_1_1_circuit/startgrid
+change_vault gameplay race_bin_15/15_1_1_circuit/startgrid 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/startgrid CollectionName race_bin_15/15_1_1_circuit/startgrid
+update_field gameplay race_bin_15/15_1_1_circuit/startgrid Name race_bin_15/15_1_1_circuit/startgrid
+update_field gameplay race_bin_15/15_1_1_circuit racefinish race_bin_15/15_1_1_circuit/finishline
+rename_node gameplay x/race_bin_15/15_1_2_circuit/finishline race_bin_15/15_1_1_circuit/finishline
+change_vault gameplay race_bin_15/15_1_1_circuit/finishline 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/finishline CollectionName race_bin_15/15_1_1_circuit/finishline
+update_field gameplay race_bin_15/15_1_1_circuit/finishline Name race_bin_15/15_1_1_circuit/finishline
+update_field gameplay race_bin_15/15_1_1_circuit Shortcuts[0] race_bin_15/15_1_1_circuit/shortcut1
+rename_node gameplay x/race_bin_15/15_1_2_circuit/shortcut1 race_bin_15/15_1_1_circuit/shortcut1
+change_vault gameplay race_bin_15/15_1_1_circuit/shortcut1 15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit/shortcut1 Name race_bin_15/15_1_1_circuit/shortcut1
+update_field gameplay race_bin_15/15_1_1_circuit/shortcut1 CollectionName race_bin_15/15_1_1_circuit/shortcut1
+update_field gameplay race_bin_15/15_1_1_circuit Children[0] race_bin_15/15_1_1_circuit/startgrid
+update_field gameplay race_bin_15/15_1_1_circuit Children[1] race_bin_15/15_1_1_circuit/finishline
+update_field gameplay race_bin_15/15_1_1_circuit Children[2] race_bin_15/15_1_1_circuit/checkpoint1
+update_field gameplay race_bin_15/15_1_1_circuit Children[3] race_bin_15/15_1_1_circuit/checkpoint2
+update_field gameplay race_bin_15/15_1_1_circuit Children[4] race_bin_15/15_1_1_circuit/checkpoint3
+update_field gameplay race_bin_15/15_1_1_circuit Children[5] race_bin_15/15_1_1_circuit/checkpoint4
+update_field gameplay race_bin_15/15_1_1_circuit Children[6] race_bin_15/15_1_1_circuit/checkpoint5
+update_field gameplay race_bin_15/15_1_1_circuit Children[7] race_bin_15/15_1_1_circuit/checkpoint6
+update_field gameplay race_bin_15/15_1_1_circuit Children[8] race_bin_15/15_1_1_circuit/checkpoint7
+update_field gameplay race_bin_15/15_1_1_circuit Children[9] race_bin_15/15_1_1_circuit/shortcut1
+rename_node gameplay x/race_bin_15/15_1_2_circuit/engage/engagetrigger_15_1_2 race_bin_15/engage/engagetrigger_15_1_1
+change_vault gameplay race_bin_15/engage/engagetrigger_15_1_1 race_bin_15
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_1 CollectionName race_bin_15/engage/engagetrigger_15_1_1
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_1 Name race_bin_15/engage/engagetrigger_15_1_1
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_1 TargetActivity race_bin_15/15_1_1_circuit
+update_field gameplay race_bin_15/engage Children[0] race_bin_15/engage/engagetrigger_15_1_1
+update_field gameplay race_bin_15/engage RaceTriggers[0] race_bin_15/engage/engagetrigger_15_1_1
+delete_field gameplay race_bin_15/engage/engagetrigger_15_1_1 InitiallyUnlocked
+delete_field gameplay race_bin_15/15_1_1_circuit RivalBestTime
+update_field gameplay race_bin_15/15_1_1_circuit CashValue 1229
+delete_field gameplay race_bin_15/15_1_1_circuit BossRace
+delete_field gameplay race_bin_15/15_1_1_circuit IsMarkerRace
+delete_field gameplay race_bin_15/15_1_1_circuit PostRaceActivity
+resize_field gameplay race_bin_15/15_1_1_circuit Opponents 3
+update_field gameplay race_bin_15/15_1_1_circuit Opponents[0] race_bin_15/opponent1
+update_field gameplay race_bin_15/15_1_1_circuit Opponents[1] race_bin_15/opponent2
+update_field gameplay race_bin_15/15_1_1_circuit Opponents[2] race_bin_15/opponent3
+update_field gameplay race_bin_15 WorldRaces[0] race_bin_15/15_1_1_circuit
+update_field gameplay race_bin_15 Children[1] race_bin_15/15_1_1_circuit
+update_field gameplay race_bin_15/15_1_1_circuit IntroNIS IntroNis03
+update_field gameplay race_bin_15/15_1_1_circuit TrafficLevel 79
+rename_node gameplay  x/15_1_1_circuit_reversed race_bin_15/15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit CollectionName race_bin_15/15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit Name race_bin_15/15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit gameplayvault 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit Checkpoint[0] race_bin_15/15_1_2_circuit/ai_cp1
+rename_node gameplay x/15_1_1_circuit_reversed/ai_cp1 race_bin_15/15_1_2_circuit/ai_cp1
+change_vault gameplay race_bin_15/15_1_2_circuit/ai_cp1 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/ai_cp1 Name race_bin_15/15_1_2_circuit/ai_cp1
+update_field gameplay race_bin_15/15_1_2_circuit/ai_cp1 CollectionName race_bin_15/15_1_2_circuit/ai_cp1
+update_field gameplay race_bin_15/15_1_2_circuit Checkpoint[1] race_bin_15/15_1_2_circuit/ai_cp2
+rename_node gameplay x/15_1_1_circuit_reversed/ai_cp2 race_bin_15/15_1_2_circuit/ai_cp2
+change_vault gameplay race_bin_15/15_1_2_circuit/ai_cp2 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/ai_cp2 Name race_bin_15/15_1_2_circuit/ai_cp2
+update_field gameplay race_bin_15/15_1_2_circuit/ai_cp2 CollectionName race_bin_15/15_1_2_circuit/ai_cp2
+update_field gameplay race_bin_15/15_1_2_circuit Checkpoint[2] race_bin_15/15_1_2_circuit/ai_cp3
+rename_node gameplay x/15_1_1_circuit_reversed/ai_cp3 race_bin_15/15_1_2_circuit/ai_cp3
+change_vault gameplay race_bin_15/15_1_2_circuit/ai_cp3 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/ai_cp3 Name race_bin_15/15_1_2_circuit/ai_cp3
+update_field gameplay race_bin_15/15_1_2_circuit/ai_cp3 CollectionName race_bin_15/15_1_2_circuit/ai_cp3
+update_field gameplay race_bin_15/15_1_2_circuit Checkpoint[3] race_bin_15/15_1_2_circuit/ai_cp4
+rename_node gameplay x/15_1_1_circuit_reversed/ai_cp4 race_bin_15/15_1_2_circuit/ai_cp4
+change_vault gameplay race_bin_15/15_1_2_circuit/ai_cp4 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/ai_cp4 Name race_bin_15/15_1_2_circuit/ai_cp4
+update_field gameplay race_bin_15/15_1_2_circuit/ai_cp4 CollectionName race_bin_15/15_1_2_circuit/ai_cp4
+update_field gameplay race_bin_15/15_1_2_circuit racestart race_bin_15/15_1_2_circuit/startgrid
+rename_node gameplay x/race_bin_15/15_1_1_circuit_reversed/startgrid race_bin_15/15_1_2_circuit/startgrid
+change_vault gameplay race_bin_15/15_1_2_circuit/startgrid 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/startgrid CollectionName race_bin_15/15_1_2_circuit/startgrid
+update_field gameplay race_bin_15/15_1_2_circuit/startgrid Name race_bin_15/15_1_2_circuit/startgrid
+update_field gameplay race_bin_15/15_1_2_circuit racefinish race_bin_15/15_1_2_circuit/finishline
+rename_node gameplay x/race_bin_15/15_1_1_circuit_reversed/finishline race_bin_15/15_1_2_circuit/finishline
+change_vault gameplay race_bin_15/15_1_2_circuit/finishline 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/finishline CollectionName race_bin_15/15_1_2_circuit/finishline
+update_field gameplay race_bin_15/15_1_2_circuit/finishline Name race_bin_15/15_1_2_circuit/finishline
+update_field gameplay race_bin_15/15_1_2_circuit Shortcuts[0] race_bin_15/15_1_2_circuit/shortcut1
+rename_node gameplay x/race_bin_15/15_1_1_circuit_reversed/shortcut1 race_bin_15/15_1_2_circuit/shortcut1
+change_vault gameplay race_bin_15/15_1_2_circuit/shortcut1 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut1 Name race_bin_15/15_1_2_circuit/shortcut1
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut1 CollectionName race_bin_15/15_1_2_circuit/shortcut1
+update_field gameplay race_bin_15/15_1_2_circuit Shortcuts[1] race_bin_15/15_1_2_circuit/shortcut2
+rename_node gameplay x/race_bin_15/15_1_1_circuit_reversed/shortcut2 race_bin_15/15_1_2_circuit/shortcut2
+change_vault gameplay race_bin_15/15_1_2_circuit/shortcut2 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut2 Name race_bin_15/15_1_2_circuit/shortcut2
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut2 CollectionName race_bin_15/15_1_2_circuit/shortcut2
+update_field gameplay race_bin_15/15_1_2_circuit Shortcuts[2] race_bin_15/15_1_2_circuit/shortcut3
+rename_node gameplay x/race_bin_15/15_1_1_circuit_reversed/shortcut3 race_bin_15/15_1_2_circuit/shortcut3
+change_vault gameplay race_bin_15/15_1_2_circuit/shortcut3 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut3 Name race_bin_15/15_1_2_circuit/shortcut3
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut3 CollectionName race_bin_15/15_1_2_circuit/shortcut3
+update_field gameplay race_bin_15/15_1_2_circuit Shortcuts[3] race_bin_15/15_1_2_circuit/shortcut4
+rename_node gameplay x/race_bin_15/15_1_1_circuit_reversed/shortcut4 race_bin_15/15_1_2_circuit/shortcut4
+change_vault gameplay race_bin_15/15_1_2_circuit/shortcut4 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut4 Name race_bin_15/15_1_2_circuit/shortcut4
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut4 CollectionName race_bin_15/15_1_2_circuit/shortcut4
+update_field gameplay race_bin_15/15_1_2_circuit Shortcuts[4] race_bin_15/15_1_2_circuit/shortcut5
+rename_node gameplay x/race_bin_15/15_1_1_circuit_reversed/shortcut5 race_bin_15/15_1_2_circuit/shortcut5
+change_vault gameplay race_bin_15/15_1_2_circuit/shortcut5 15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut5 Name race_bin_15/15_1_2_circuit/shortcut5
+update_field gameplay race_bin_15/15_1_2_circuit/shortcut5 CollectionName race_bin_15/15_1_2_circuit/shortcut5
+update_field gameplay race_bin_15/15_1_2_circuit Children[0] race_bin_15/15_1_2_circuit/startgrid
+update_field gameplay race_bin_15/15_1_2_circuit Children[1] race_bin_15/15_1_2_circuit/finishline
+update_field gameplay race_bin_15/15_1_2_circuit Children[2] race_bin_15/15_1_2_circuit/checkpoint1
+update_field gameplay race_bin_15/15_1_2_circuit Children[3] race_bin_15/15_1_2_circuit/checkpoint2
+update_field gameplay race_bin_15/15_1_2_circuit Children[4] race_bin_15/15_1_2_circuit/checkpoint3
+update_field gameplay race_bin_15/15_1_2_circuit Children[5] race_bin_15/15_1_2_circuit/checkpoint4
+update_field gameplay race_bin_15/15_1_2_circuit Children[6] 0x00000000
+update_field gameplay race_bin_15/15_1_2_circuit Children[7] 0x00000000
+update_field gameplay race_bin_15/15_1_2_circuit Children[8] race_bin_15/15_1_2_circuit/shortcut1
+update_field gameplay race_bin_15/15_1_2_circuit Children[9] race_bin_15/15_1_2_circuit/shortcut2
+update_field gameplay race_bin_15/15_1_2_circuit Children[10] race_bin_15/15_1_2_circuit/shortcut3
+update_field gameplay race_bin_15/15_1_2_circuit Children[11] race_bin_15/15_1_2_circuit/shortcut4
+update_field gameplay race_bin_15/15_1_2_circuit Children[12] race_bin_15/15_1_2_circuit/shortcut5
+add_node gameplay engagetrigger_circuit race_bin_15/engage/engagetrigger_15_1_2
+change_vault gameplay race_bin_15/engage/engagetrigger_15_1_2 race_bin_15
+add_field gameplay race_bin_15/engage/engagetrigger_15_1_2 Name
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_2 Name race_bin_15/engage/engagetrigger_15_1_2
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_2 CollectionName race_bin_15/engage/engagetrigger_15_1_2
+add_field gameplay race_bin_15/engage/engagetrigger_15_1_2 TargetActivity
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_2 TargetActivity race_bin_15/15_1_2_circuit
+add_field gameplay race_bin_15/engage/engagetrigger_15_1_2 Template
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_2 Template False
+add_field gameplay race_bin_15/engage/engagetrigger_15_1_2 Position
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_2 Position X 0
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_2 Position Y 0
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_2 Position Z 0
+update_field gameplay race_bin_15/engage Children[1] race_bin_15/engage/engagetrigger_15_1_2
+update_field gameplay race_bin_15/engage RaceTriggers[1] race_bin_15/engage/engagetrigger_15_1_2
+delete_field gameplay race_bin_15/15_1_2_circuit RivalBestTime
+update_field gameplay race_bin_15/15_1_2_circuit CashValue 988
+delete_field gameplay race_bin_15/15_1_2_circuit BossRace
+delete_field gameplay race_bin_15/15_1_2_circuit IsMarkerRace
+delete_field gameplay race_bin_15/15_1_2_circuit RewardsForWinner
+resize_field gameplay race_bin_15/15_1_2_circuit Opponents 3
+update_field gameplay race_bin_15/15_1_2_circuit Opponents[0] race_bin_15/opponent1
+update_field gameplay race_bin_15/15_1_2_circuit Opponents[1] race_bin_15/opponent2
+update_field gameplay race_bin_15/15_1_2_circuit Opponents[2] race_bin_15/opponent3
+update_field gameplay race_bin_15 WorldRaces[1] race_bin_15/15_1_2_circuit
+update_field gameplay race_bin_15 Children[2] race_bin_15/15_1_2_circuit
+update_field gameplay race_bin_15/15_1_2_circuit IntroNIS IntroNis01
+update_field gameplay race_bin_15/15_1_2_circuit TrafficLevel 53
+rename_node gameplay  x/15_1_1_circuit race_bin_15/15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit CollectionName race_bin_15/15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit Name race_bin_15/15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit gameplayvault 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit Checkpoint[0] race_bin_15/15_1_3_circuit/ai_cp1
+rename_node gameplay x/15_1_1_circuit/ai_cp1 race_bin_15/15_1_3_circuit/ai_cp1
+change_vault gameplay race_bin_15/15_1_3_circuit/ai_cp1 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/ai_cp1 Name race_bin_15/15_1_3_circuit/ai_cp1
+update_field gameplay race_bin_15/15_1_3_circuit/ai_cp1 CollectionName race_bin_15/15_1_3_circuit/ai_cp1
+update_field gameplay race_bin_15/15_1_3_circuit Checkpoint[1] race_bin_15/15_1_3_circuit/ai_cp2
+rename_node gameplay x/15_1_1_circuit/ai_cp2 race_bin_15/15_1_3_circuit/ai_cp2
+change_vault gameplay race_bin_15/15_1_3_circuit/ai_cp2 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/ai_cp2 Name race_bin_15/15_1_3_circuit/ai_cp2
+update_field gameplay race_bin_15/15_1_3_circuit/ai_cp2 CollectionName race_bin_15/15_1_3_circuit/ai_cp2
+update_field gameplay race_bin_15/15_1_3_circuit Checkpoint[2] race_bin_15/15_1_3_circuit/ai_cp3
+rename_node gameplay x/15_1_1_circuit/ai_cp3 race_bin_15/15_1_3_circuit/ai_cp3
+change_vault gameplay race_bin_15/15_1_3_circuit/ai_cp3 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/ai_cp3 Name race_bin_15/15_1_3_circuit/ai_cp3
+update_field gameplay race_bin_15/15_1_3_circuit/ai_cp3 CollectionName race_bin_15/15_1_3_circuit/ai_cp3
+update_field gameplay race_bin_15/15_1_3_circuit Checkpoint[3] race_bin_15/15_1_3_circuit/ai_cp4
+rename_node gameplay x/15_1_1_circuit/ai_cp4 race_bin_15/15_1_3_circuit/ai_cp4
+change_vault gameplay race_bin_15/15_1_3_circuit/ai_cp4 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/ai_cp4 Name race_bin_15/15_1_3_circuit/ai_cp4
+update_field gameplay race_bin_15/15_1_3_circuit/ai_cp4 CollectionName race_bin_15/15_1_3_circuit/ai_cp4
+update_field gameplay race_bin_15/15_1_3_circuit racestart race_bin_15/15_1_3_circuit/startgrid
+rename_node gameplay x/race_bin_15/15_1_1_circuit/startgrid race_bin_15/15_1_3_circuit/startgrid
+change_vault gameplay race_bin_15/15_1_3_circuit/startgrid 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/startgrid CollectionName race_bin_15/15_1_3_circuit/startgrid
+update_field gameplay race_bin_15/15_1_3_circuit/startgrid Name race_bin_15/15_1_3_circuit/startgrid
+update_field gameplay race_bin_15/15_1_3_circuit racefinish race_bin_15/15_1_3_circuit/finishline
+rename_node gameplay x/race_bin_15/15_1_1_circuit/finishline race_bin_15/15_1_3_circuit/finishline
+change_vault gameplay race_bin_15/15_1_3_circuit/finishline 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/finishline CollectionName race_bin_15/15_1_3_circuit/finishline
+update_field gameplay race_bin_15/15_1_3_circuit/finishline Name race_bin_15/15_1_3_circuit/finishline
+update_field gameplay race_bin_15/15_1_3_circuit Shortcuts[0] race_bin_15/15_1_3_circuit/shortcut1
+rename_node gameplay x/race_bin_15/15_1_1_circuit/shortcut1 race_bin_15/15_1_3_circuit/shortcut1
+change_vault gameplay race_bin_15/15_1_3_circuit/shortcut1 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut1 Name race_bin_15/15_1_3_circuit/shortcut1
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut1 CollectionName race_bin_15/15_1_3_circuit/shortcut1
+update_field gameplay race_bin_15/15_1_3_circuit Shortcuts[1] race_bin_15/15_1_3_circuit/shortcut2
+rename_node gameplay x/race_bin_15/15_1_1_circuit/shortcut2 race_bin_15/15_1_3_circuit/shortcut2
+change_vault gameplay race_bin_15/15_1_3_circuit/shortcut2 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut2 Name race_bin_15/15_1_3_circuit/shortcut2
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut2 CollectionName race_bin_15/15_1_3_circuit/shortcut2
+update_field gameplay race_bin_15/15_1_3_circuit Shortcuts[2] race_bin_15/15_1_3_circuit/shortcut3
+rename_node gameplay x/race_bin_15/15_1_1_circuit/shortcut3 race_bin_15/15_1_3_circuit/shortcut3
+change_vault gameplay race_bin_15/15_1_3_circuit/shortcut3 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut3 Name race_bin_15/15_1_3_circuit/shortcut3
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut3 CollectionName race_bin_15/15_1_3_circuit/shortcut3
+update_field gameplay race_bin_15/15_1_3_circuit Shortcuts[3] race_bin_15/15_1_3_circuit/shortcut4
+rename_node gameplay x/race_bin_15/15_1_1_circuit/shortcut4 race_bin_15/15_1_3_circuit/shortcut4
+change_vault gameplay race_bin_15/15_1_3_circuit/shortcut4 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut4 Name race_bin_15/15_1_3_circuit/shortcut4
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut4 CollectionName race_bin_15/15_1_3_circuit/shortcut4
+update_field gameplay race_bin_15/15_1_3_circuit Shortcuts[4] race_bin_15/15_1_3_circuit/shortcut5
+rename_node gameplay x/race_bin_15/15_1_1_circuit/shortcut5 race_bin_15/15_1_3_circuit/shortcut5
+change_vault gameplay race_bin_15/15_1_3_circuit/shortcut5 15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut5 Name race_bin_15/15_1_3_circuit/shortcut5
+update_field gameplay race_bin_15/15_1_3_circuit/shortcut5 CollectionName race_bin_15/15_1_3_circuit/shortcut5
+update_field gameplay race_bin_15/15_1_3_circuit Children[0] race_bin_15/15_1_3_circuit/startgrid
+update_field gameplay race_bin_15/15_1_3_circuit Children[1] race_bin_15/15_1_3_circuit/finishline
+update_field gameplay race_bin_15/15_1_3_circuit Children[2] race_bin_15/15_1_3_circuit/checkpoint1
+update_field gameplay race_bin_15/15_1_3_circuit Children[3] race_bin_15/15_1_3_circuit/checkpoint2
+update_field gameplay race_bin_15/15_1_3_circuit Children[4] race_bin_15/15_1_3_circuit/checkpoint3
+update_field gameplay race_bin_15/15_1_3_circuit Children[5] race_bin_15/15_1_3_circuit/checkpoint4
+update_field gameplay race_bin_15/15_1_3_circuit Children[6] race_bin_15/15_1_3_circuit/shortcut1
+update_field gameplay race_bin_15/15_1_3_circuit Children[7] race_bin_15/15_1_3_circuit/shortcut2
+update_field gameplay race_bin_15/15_1_3_circuit Children[8] race_bin_15/15_1_3_circuit/shortcut3
+update_field gameplay race_bin_15/15_1_3_circuit Children[9] race_bin_15/15_1_3_circuit/shortcut4
+update_field gameplay race_bin_15/15_1_3_circuit Children[10] race_bin_15/15_1_3_circuit/shortcut5
+rename_node gameplay x/race_bin_15/15_1_1_circuit/engage/engagetrigger_15_1_1 race_bin_15/engage/engagetrigger_15_1_3
+change_vault gameplay race_bin_15/engage/engagetrigger_15_1_3 race_bin_15
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_3 CollectionName race_bin_15/engage/engagetrigger_15_1_3
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_3 Name race_bin_15/engage/engagetrigger_15_1_3
+update_field gameplay race_bin_15/engage/engagetrigger_15_1_3 TargetActivity race_bin_15/15_1_3_circuit
+update_field gameplay race_bin_15/engage Children[2] race_bin_15/engage/engagetrigger_15_1_3
+update_field gameplay race_bin_15/engage RaceTriggers[2] race_bin_15/engage/engagetrigger_15_1_3
+update_field gameplay race_bin_15 WorldRaces[2] race_bin_15/15_1_3_circuit
+update_field gameplay race_bin_15 Children[3] race_bin_15/15_1_3_circuit
+update_field gameplay race_bin_15/15_1_3_circuit IntroNIS GenericStart
+update_field gameplay race_bin_15/15_1_3_circuit TrafficLevel 96
+rename_node gameplay  x/14_2_4_sprint race_bin_15/15_2_1_sprint
+change_vault gameplay race_bin_15/15_2_1_sprint race_bin_15
+update_field gameplay race_bin_15/15_2_1_sprint CollectionName race_bin_15/15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint Name race_bin_15/15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint gameplayvault 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[0] race_bin_15/15_2_1_sprint/ai_cp1
+rename_node gameplay x/14_2_4_sprint/ai_cp1 race_bin_15/15_2_1_sprint/ai_cp1
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp1 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp1 Name race_bin_15/15_2_1_sprint/ai_cp1
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp1 CollectionName race_bin_15/15_2_1_sprint/ai_cp1
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[1] race_bin_15/15_2_1_sprint/ai_cp2
+rename_node gameplay x/14_2_4_sprint/ai_cp2 race_bin_15/15_2_1_sprint/ai_cp2
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp2 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp2 Name race_bin_15/15_2_1_sprint/ai_cp2
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp2 CollectionName race_bin_15/15_2_1_sprint/ai_cp2
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[2] race_bin_15/15_2_1_sprint/ai_cp3
+rename_node gameplay x/14_2_4_sprint/ai_cp3 race_bin_15/15_2_1_sprint/ai_cp3
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp3 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp3 Name race_bin_15/15_2_1_sprint/ai_cp3
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp3 CollectionName race_bin_15/15_2_1_sprint/ai_cp3
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[3] race_bin_15/15_2_1_sprint/ai_cp4
+rename_node gameplay x/14_2_4_sprint/ai_cp4 race_bin_15/15_2_1_sprint/ai_cp4
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp4 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp4 Name race_bin_15/15_2_1_sprint/ai_cp4
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp4 CollectionName race_bin_15/15_2_1_sprint/ai_cp4
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[4] race_bin_15/15_2_1_sprint/ai_cp5
+rename_node gameplay x/14_2_4_sprint/ai_cp5 race_bin_15/15_2_1_sprint/ai_cp5
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp5 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp5 Name race_bin_15/15_2_1_sprint/ai_cp5
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp5 CollectionName race_bin_15/15_2_1_sprint/ai_cp5
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[5] race_bin_15/15_2_1_sprint/ai_cp6
+rename_node gameplay x/14_2_4_sprint/ai_cp6 race_bin_15/15_2_1_sprint/ai_cp6
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp6 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp6 Name race_bin_15/15_2_1_sprint/ai_cp6
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp6 CollectionName race_bin_15/15_2_1_sprint/ai_cp6
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[6] race_bin_15/15_2_1_sprint/ai_cp7
+rename_node gameplay x/14_2_4_sprint/ai_cp7 race_bin_15/15_2_1_sprint/ai_cp7
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp7 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp7 Name race_bin_15/15_2_1_sprint/ai_cp7
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp7 CollectionName race_bin_15/15_2_1_sprint/ai_cp7
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[7] race_bin_15/15_2_1_sprint/ai_cp8
+rename_node gameplay x/14_2_4_sprint/ai_cp8 race_bin_15/15_2_1_sprint/ai_cp8
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp8 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp8 Name race_bin_15/15_2_1_sprint/ai_cp8
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp8 CollectionName race_bin_15/15_2_1_sprint/ai_cp8
+update_field gameplay race_bin_15/15_2_1_sprint Checkpoint[8] race_bin_15/15_2_1_sprint/ai_cp9
+rename_node gameplay x/14_2_4_sprint/ai_cp9 race_bin_15/15_2_1_sprint/ai_cp9
+change_vault gameplay race_bin_15/15_2_1_sprint/ai_cp9 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp9 Name race_bin_15/15_2_1_sprint/ai_cp9
+update_field gameplay race_bin_15/15_2_1_sprint/ai_cp9 CollectionName race_bin_15/15_2_1_sprint/ai_cp9
+update_field gameplay race_bin_15/15_2_1_sprint racestart race_bin_15/15_2_1_sprint/15_2_1_startgrid
+rename_node gameplay x/race_bin_14/14_2_4_sprint/14_2_4_startgrid race_bin_15/15_2_1_sprint/15_2_1_startgrid
+change_vault gameplay race_bin_15/15_2_1_sprint/15_2_1_startgrid 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/15_2_1_startgrid CollectionName race_bin_15/15_2_1_sprint/15_2_1_startgrid
+update_field gameplay race_bin_15/15_2_1_sprint/15_2_1_startgrid Name race_bin_15/15_2_1_sprint/15_2_1_startgrid
+update_field gameplay race_bin_15/15_2_1_sprint racefinish race_bin_15/15_2_1_sprint/15_2_1_finishline
+rename_node gameplay x/race_bin_14/14_2_4_sprint/14_2_4_finishline race_bin_15/15_2_1_sprint/15_2_1_finishline
+change_vault gameplay race_bin_15/15_2_1_sprint/15_2_1_finishline 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/15_2_1_finishline CollectionName race_bin_15/15_2_1_sprint/15_2_1_finishline
+update_field gameplay race_bin_15/15_2_1_sprint/15_2_1_finishline Name race_bin_15/15_2_1_sprint/15_2_1_finishline
+update_field gameplay race_bin_15/15_2_1_sprint Shortcuts[0] race_bin_15/15_2_1_sprint/shortcut1
+rename_node gameplay x/race_bin_14/14_2_4_sprint/shortcut1 race_bin_15/15_2_1_sprint/shortcut1
+change_vault gameplay race_bin_15/15_2_1_sprint/shortcut1 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/shortcut1 Name race_bin_15/15_2_1_sprint/shortcut1
+update_field gameplay race_bin_15/15_2_1_sprint/shortcut1 CollectionName race_bin_15/15_2_1_sprint/shortcut1
+update_field gameplay race_bin_15/15_2_1_sprint Shortcuts[1] race_bin_15/15_2_1_sprint/shortcut2
+rename_node gameplay x/race_bin_14/14_2_4_sprint/shortcut2 race_bin_15/15_2_1_sprint/shortcut2
+change_vault gameplay race_bin_15/15_2_1_sprint/shortcut2 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/shortcut2 Name race_bin_15/15_2_1_sprint/shortcut2
+update_field gameplay race_bin_15/15_2_1_sprint/shortcut2 CollectionName race_bin_15/15_2_1_sprint/shortcut2
+update_field gameplay race_bin_15/15_2_1_sprint Children[0] race_bin_15/15_2_1_sprint/startgrid
+update_field gameplay race_bin_15/15_2_1_sprint Children[1] race_bin_15/15_2_1_sprint/finishline
+update_field gameplay race_bin_15/15_2_1_sprint Children[2] race_bin_15/15_2_1_sprint/checkpoint1
+update_field gameplay race_bin_15/15_2_1_sprint Children[3] race_bin_15/15_2_1_sprint/checkpoint2
+update_field gameplay race_bin_15/15_2_1_sprint Children[4] race_bin_15/15_2_1_sprint/checkpoint3
+update_field gameplay race_bin_15/15_2_1_sprint Children[5] race_bin_15/15_2_1_sprint/checkpoint4
+update_field gameplay race_bin_15/15_2_1_sprint Children[6] race_bin_15/15_2_1_sprint/checkpoint5
+update_field gameplay race_bin_15/15_2_1_sprint Children[7] race_bin_15/15_2_1_sprint/checkpoint6
+update_field gameplay race_bin_15/15_2_1_sprint Children[8] race_bin_15/15_2_1_sprint/checkpoint7
+update_field gameplay race_bin_15/15_2_1_sprint Children[9] race_bin_15/15_2_1_sprint/checkpoint8
+update_field gameplay race_bin_15/15_2_1_sprint Children[10] race_bin_15/15_2_1_sprint/checkpoint9
+update_field gameplay race_bin_15/15_2_1_sprint Children[11] race_bin_15/15_2_1_sprint/shortcut1
+update_field gameplay race_bin_15/15_2_1_sprint Children[16] race_bin_15/15_2_1_sprint/wrongway
+rename_node gameplay x/race_bin_14/14_2_4_sprint/wrongway race_bin_15/15_2_1_sprint/wrongway
+change_vault gameplay race_bin_15/15_2_1_sprint/wrongway 15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint/wrongway Name race_bin_15/15_2_1_sprint/wrongway
+update_field gameplay race_bin_15/15_2_1_sprint/wrongway CollectionName race_bin_15/15_2_1_sprint/wrongway
+update_field gameplay race_bin_15/15_2_1_sprint Children[17] race_bin_15/15_2_1_sprint/shortcut2
+rename_node gameplay x/race_bin_14/14_2_4_sprint/engage/engagetrigger_14_2_4 race_bin_15/engage/engagetrigger_15_2_1
+change_vault gameplay race_bin_15/engage/engagetrigger_15_2_1 race_bin_15
+update_field gameplay race_bin_15/engage/engagetrigger_15_2_1 CollectionName race_bin_15/engage/engagetrigger_15_2_1
+update_field gameplay race_bin_15/engage/engagetrigger_15_2_1 Name race_bin_15/engage/engagetrigger_15_2_1
+update_field gameplay race_bin_15/engage/engagetrigger_15_2_1 TargetActivity race_bin_15/15_2_1_sprint
+update_field gameplay race_bin_15/engage Children[3] race_bin_15/engage/engagetrigger_15_2_1
+update_field gameplay race_bin_15/engage RaceTriggers[3] race_bin_15/engage/engagetrigger_15_2_1
+update_field gameplay race_bin_15/15_2_1_sprint BossRace True
+update_field gameplay race_bin_15/15_2_1_sprint RivalBestTime 144
+resize_field gameplay race_bin_15/15_2_1_sprint Opponents 1
+update_field gameplay race_bin_15/15_2_1_sprint Opponents[0] race_bin_15/tony_ho
+update_field gameplay race_bin_15/15_2_1_sprint CashValue 0
+update_field gameplay race_bin_15 BossRaces[0] race_bin_15/15_2_1_sprint
+update_field gameplay race_bin_15 Children[4] race_bin_15/15_2_1_sprint
+update_field gameplay race_bin_15/15_2_1_sprint IntroNIS IntroNis07
+update_field gameplay race_bin_15/15_2_1_sprint TrafficLevel 37
+rename_node gameplay  x/14_4_1_tollbooth race_bin_15/15_4_1_tollbooth
+change_vault gameplay race_bin_15/15_4_1_tollbooth race_bin_15
+update_field gameplay race_bin_15/15_4_1_tollbooth CollectionName race_bin_15/15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth Name race_bin_15/15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth gameplayvault 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth Checkpoint[0] race_bin_15/15_4_1_tollbooth/checkpoint1
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/checkpoint1 race_bin_15/15_4_1_tollbooth/checkpoint1
+change_vault gameplay race_bin_15/15_4_1_tollbooth/checkpoint1 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint1 Name race_bin_15/15_4_1_tollbooth/checkpoint1
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint1 CollectionName race_bin_15/15_4_1_tollbooth/checkpoint1
+update_field gameplay race_bin_15/15_4_1_tollbooth Checkpoint[1] race_bin_15/15_4_1_tollbooth/checkpoint2
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/checkpoint2 race_bin_15/15_4_1_tollbooth/checkpoint2
+change_vault gameplay race_bin_15/15_4_1_tollbooth/checkpoint2 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint2 Name race_bin_15/15_4_1_tollbooth/checkpoint2
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint2 CollectionName race_bin_15/15_4_1_tollbooth/checkpoint2
+update_field gameplay race_bin_15/15_4_1_tollbooth Checkpoint[2] race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint1
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/time_bonus_checkpoint1 race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint1
+change_vault gameplay race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint1 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint1 Name race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint1
+update_field gameplay race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint1 CollectionName race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint1
+update_field gameplay race_bin_15/15_4_1_tollbooth Checkpoint[3] race_bin_15/15_4_1_tollbooth/checkpoint3
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/checkpoint3 race_bin_15/15_4_1_tollbooth/checkpoint3
+change_vault gameplay race_bin_15/15_4_1_tollbooth/checkpoint3 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint3 Name race_bin_15/15_4_1_tollbooth/checkpoint3
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint3 CollectionName race_bin_15/15_4_1_tollbooth/checkpoint3
+update_field gameplay race_bin_15/15_4_1_tollbooth Checkpoint[4] race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint2
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/time_bonus_checkpoint2 race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint2
+change_vault gameplay race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint2 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint2 Name race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint2
+update_field gameplay race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint2 CollectionName race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint2
+update_field gameplay race_bin_15/15_4_1_tollbooth Checkpoint[5] race_bin_15/15_4_1_tollbooth/checkpoint4
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/checkpoint4 race_bin_15/15_4_1_tollbooth/checkpoint4
+change_vault gameplay race_bin_15/15_4_1_tollbooth/checkpoint4 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint4 Name race_bin_15/15_4_1_tollbooth/checkpoint4
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint4 CollectionName race_bin_15/15_4_1_tollbooth/checkpoint4
+update_field gameplay race_bin_15/15_4_1_tollbooth Checkpoint[6] race_bin_15/15_4_1_tollbooth/checkpoint5
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/checkpoint5 race_bin_15/15_4_1_tollbooth/checkpoint5
+change_vault gameplay race_bin_15/15_4_1_tollbooth/checkpoint5 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint5 Name race_bin_15/15_4_1_tollbooth/checkpoint5
+update_field gameplay race_bin_15/15_4_1_tollbooth/checkpoint5 CollectionName race_bin_15/15_4_1_tollbooth/checkpoint5
+update_field gameplay race_bin_15/15_4_1_tollbooth racestart race_bin_15/15_4_1_tollbooth/15_4_1_startgrid
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/14_4_1_startgrid race_bin_15/15_4_1_tollbooth/15_4_1_startgrid
+change_vault gameplay race_bin_15/15_4_1_tollbooth/15_4_1_startgrid 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/15_4_1_startgrid CollectionName race_bin_15/15_4_1_tollbooth/15_4_1_startgrid
+update_field gameplay race_bin_15/15_4_1_tollbooth/15_4_1_startgrid Name race_bin_15/15_4_1_tollbooth/15_4_1_startgrid
+update_field gameplay race_bin_15/15_4_1_tollbooth racefinish race_bin_15/15_4_1_tollbooth/15_4_1_finishline
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/14_4_1_finishline race_bin_15/15_4_1_tollbooth/15_4_1_finishline
+change_vault gameplay race_bin_15/15_4_1_tollbooth/15_4_1_finishline 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/15_4_1_finishline CollectionName race_bin_15/15_4_1_tollbooth/15_4_1_finishline
+update_field gameplay race_bin_15/15_4_1_tollbooth/15_4_1_finishline Name race_bin_15/15_4_1_tollbooth/15_4_1_finishline
+update_field gameplay race_bin_15/15_4_1_tollbooth Shortcuts[0] race_bin_15/15_4_1_tollbooth/shortcut1
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/shortcut1 race_bin_15/15_4_1_tollbooth/shortcut1
+change_vault gameplay race_bin_15/15_4_1_tollbooth/shortcut1 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/shortcut1 Name race_bin_15/15_4_1_tollbooth/shortcut1
+update_field gameplay race_bin_15/15_4_1_tollbooth/shortcut1 CollectionName race_bin_15/15_4_1_tollbooth/shortcut1
+update_field gameplay race_bin_15/15_4_1_tollbooth Shortcuts[1] race_bin_15/15_4_1_tollbooth/shortcut2
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/shortcut2 race_bin_15/15_4_1_tollbooth/shortcut2
+change_vault gameplay race_bin_15/15_4_1_tollbooth/shortcut2 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/shortcut2 Name race_bin_15/15_4_1_tollbooth/shortcut2
+update_field gameplay race_bin_15/15_4_1_tollbooth/shortcut2 CollectionName race_bin_15/15_4_1_tollbooth/shortcut2
+update_field gameplay race_bin_15/15_4_1_tollbooth Shortcuts[2] race_bin_15/15_4_1_tollbooth/shortcut3
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/shortcut3 race_bin_15/15_4_1_tollbooth/shortcut3
+change_vault gameplay race_bin_15/15_4_1_tollbooth/shortcut3 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/shortcut3 Name race_bin_15/15_4_1_tollbooth/shortcut3
+update_field gameplay race_bin_15/15_4_1_tollbooth/shortcut3 CollectionName race_bin_15/15_4_1_tollbooth/shortcut3
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[0] race_bin_15/15_4_1_tollbooth/startgrid
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[1] race_bin_15/15_4_1_tollbooth/finishline
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[2] race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint1
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[3] race_bin_15/15_4_1_tollbooth/time_bonus_checkpoint2
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[4] race_bin_15/15_4_1_tollbooth/checkpoint1
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[5] race_bin_15/15_4_1_tollbooth/checkpoint2
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[6] race_bin_15/15_4_1_tollbooth/checkpoint3
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[7] race_bin_15/15_4_1_tollbooth/checkpoint4
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[8] race_bin_15/15_4_1_tollbooth/checkpoint5
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[9] race_bin_15/15_4_1_tollbooth/wrongway
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/wrongway race_bin_15/15_4_1_tollbooth/wrongway
+change_vault gameplay race_bin_15/15_4_1_tollbooth/wrongway 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/wrongway Name race_bin_15/15_4_1_tollbooth/wrongway
+update_field gameplay race_bin_15/15_4_1_tollbooth/wrongway CollectionName race_bin_15/15_4_1_tollbooth/wrongway
+update_field gameplay race_bin_15/15_4_1_tollbooth racefinishReverse race_bin_15/15_4_1_tollbooth/15_4_1_finishline_reverse
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/14_4_1_finishline_reverse race_bin_15/15_4_1_tollbooth/15_4_1_finishline_reverse
+change_vault gameplay race_bin_15/15_4_1_tollbooth/15_4_1_finishline_reverse 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/15_4_1_finishline_reverse CollectionName race_bin_15/15_4_1_tollbooth/15_4_1_finishline_reverse
+update_field gameplay race_bin_15/15_4_1_tollbooth/15_4_1_finishline_reverse Name race_bin_15/15_4_1_tollbooth/15_4_1_finishline_reverse
+update_field gameplay race_bin_15/15_4_1_tollbooth racestartReverse race_bin_15/15_4_1_tollbooth/15_4_1_startgrid_reverse
+rename_node gameplay x/race_bin_14/14_4_1_tollbooth/14_4_1_startgrid_reverse race_bin_15/15_4_1_tollbooth/15_4_1_startgrid_reverse
+change_vault gameplay race_bin_15/15_4_1_tollbooth/15_4_1_startgrid_reverse 15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth/15_4_1_startgrid_reverse CollectionName race_bin_15/15_4_1_tollbooth/15_4_1_startgrid_reverse
+update_field gameplay race_bin_15/15_4_1_tollbooth/15_4_1_startgrid_reverse Name race_bin_15/15_4_1_tollbooth/15_4_1_startgrid_reverse
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[12] race_bin_15/15_4_1_tollbooth/shortcut1
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[13] race_bin_15/15_4_1_tollbooth/shortcut2
+update_field gameplay race_bin_15/15_4_1_tollbooth Children[14] race_bin_15/15_4_1_tollbooth/shortcut3
+delete_node gameplay  x/race_bin_14/14_4_1_tollbooth/engage/engagetrigger_14_4_1
+add_field gameplay race_bin_15/15_4_1_tollbooth BossRace
+update_field gameplay race_bin_15/15_4_1_tollbooth BossRace True
+add_field gameplay race_bin_15/15_4_1_tollbooth RivalBestTime
+update_field gameplay race_bin_15/15_4_1_tollbooth RivalBestTime 394
+update_field gameplay race_bin_15/15_2_1_sprint PostRaceActivity race_bin_15/15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth CashValue 6112
+add_field gameplay race_bin_15/15_4_1_tollbooth IsMarkerRace
+update_field gameplay race_bin_15/15_4_1_tollbooth IsMarkerRace True
+add_field gameplay race_bin_15/15_4_1_tollbooth RewardsForWinner 6
+update_field gameplay race_bin_15/15_4_1_tollbooth RewardsForWinner[0] race_bin_15/rewards/reward_brakes
+update_field gameplay race_bin_15/15_4_1_tollbooth RewardsForWinner[1] race_bin_15/rewards/reward_cash_bonus1
+update_field gameplay race_bin_15/15_4_1_tollbooth RewardsForWinner[2] race_bin_15/rewards/reward_out_of_jail_free1
+update_field gameplay race_bin_15/15_4_1_tollbooth RewardsForWinner[3] race_bin_15/rewards/reward_pink_slip1
+update_field gameplay race_bin_15/15_4_1_tollbooth RewardsForWinner[4] race_bin_15/rewards/reward_rims
+update_field gameplay race_bin_15/15_4_1_tollbooth RewardsForWinner[5] race_bin_15/rewards/reward_vinyl
+update_field gameplay race_bin_15 BossRaces[1] race_bin_15/15_4_1_tollbooth
+update_field gameplay race_bin_15 Children[7] race_bin_15/15_4_1_tollbooth
+update_field gameplay race_bin_15/15_4_1_tollbooth TrafficLevel 23
+rename_node gameplay  x/14_1_2_cellphone_circuit race_bin_14/14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit CollectionName race_bin_14/14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit Name race_bin_14/14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit gameplayvault 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit Checkpoint[0] race_bin_14/14_1_1_circuit/ai_cp1
+rename_node gameplay x/14_1_2_cellphone_circuit/ai_cp1 race_bin_14/14_1_1_circuit/ai_cp1
+change_vault gameplay race_bin_14/14_1_1_circuit/ai_cp1 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp1 Name race_bin_14/14_1_1_circuit/ai_cp1
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp1 CollectionName race_bin_14/14_1_1_circuit/ai_cp1
+update_field gameplay race_bin_14/14_1_1_circuit Checkpoint[1] race_bin_14/14_1_1_circuit/ai_cp2
+rename_node gameplay x/14_1_2_cellphone_circuit/ai_cp2 race_bin_14/14_1_1_circuit/ai_cp2
+change_vault gameplay race_bin_14/14_1_1_circuit/ai_cp2 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp2 Name race_bin_14/14_1_1_circuit/ai_cp2
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp2 CollectionName race_bin_14/14_1_1_circuit/ai_cp2
+update_field gameplay race_bin_14/14_1_1_circuit Checkpoint[2] race_bin_14/14_1_1_circuit/ai_cp3
+rename_node gameplay x/14_1_2_cellphone_circuit/ai_cp3 race_bin_14/14_1_1_circuit/ai_cp3
+change_vault gameplay race_bin_14/14_1_1_circuit/ai_cp3 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp3 Name race_bin_14/14_1_1_circuit/ai_cp3
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp3 CollectionName race_bin_14/14_1_1_circuit/ai_cp3
+update_field gameplay race_bin_14/14_1_1_circuit Checkpoint[3] race_bin_14/14_1_1_circuit/ai_cp4
+rename_node gameplay x/14_1_2_cellphone_circuit/ai_cp4 race_bin_14/14_1_1_circuit/ai_cp4
+change_vault gameplay race_bin_14/14_1_1_circuit/ai_cp4 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp4 Name race_bin_14/14_1_1_circuit/ai_cp4
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp4 CollectionName race_bin_14/14_1_1_circuit/ai_cp4
+update_field gameplay race_bin_14/14_1_1_circuit Checkpoint[4] race_bin_14/14_1_1_circuit/ai_cp5
+rename_node gameplay x/14_1_2_cellphone_circuit/ai_cp5 race_bin_14/14_1_1_circuit/ai_cp5
+change_vault gameplay race_bin_14/14_1_1_circuit/ai_cp5 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp5 Name race_bin_14/14_1_1_circuit/ai_cp5
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp5 CollectionName race_bin_14/14_1_1_circuit/ai_cp5
+update_field gameplay race_bin_14/14_1_1_circuit Checkpoint[5] race_bin_14/14_1_1_circuit/ai_cp6
+rename_node gameplay x/14_1_2_cellphone_circuit/ai_cp6 race_bin_14/14_1_1_circuit/ai_cp6
+change_vault gameplay race_bin_14/14_1_1_circuit/ai_cp6 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp6 Name race_bin_14/14_1_1_circuit/ai_cp6
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp6 CollectionName race_bin_14/14_1_1_circuit/ai_cp6
+update_field gameplay race_bin_14/14_1_1_circuit Checkpoint[6] race_bin_14/14_1_1_circuit/ai_cp7
+rename_node gameplay x/14_1_2_cellphone_circuit/ai_cp7 race_bin_14/14_1_1_circuit/ai_cp7
+change_vault gameplay race_bin_14/14_1_1_circuit/ai_cp7 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp7 Name race_bin_14/14_1_1_circuit/ai_cp7
+update_field gameplay race_bin_14/14_1_1_circuit/ai_cp7 CollectionName race_bin_14/14_1_1_circuit/ai_cp7
+update_field gameplay race_bin_14/14_1_1_circuit racestart race_bin_14/14_1_1_circuit/14_1_1_startgrid
+rename_node gameplay x/race_bin_14/14_1_2_cellphone_circuit/14_1_2_startgrid race_bin_14/14_1_1_circuit/14_1_1_startgrid
+change_vault gameplay race_bin_14/14_1_1_circuit/14_1_1_startgrid 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/14_1_1_startgrid CollectionName race_bin_14/14_1_1_circuit/14_1_1_startgrid
+update_field gameplay race_bin_14/14_1_1_circuit/14_1_1_startgrid Name race_bin_14/14_1_1_circuit/14_1_1_startgrid
+update_field gameplay race_bin_14/14_1_1_circuit racefinish race_bin_14/14_1_1_circuit/14_1_1_finishline
+rename_node gameplay x/race_bin_14/14_1_2_cellphone_circuit/14_1_2_finishline race_bin_14/14_1_1_circuit/14_1_1_finishline
+change_vault gameplay race_bin_14/14_1_1_circuit/14_1_1_finishline 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/14_1_1_finishline CollectionName race_bin_14/14_1_1_circuit/14_1_1_finishline
+update_field gameplay race_bin_14/14_1_1_circuit/14_1_1_finishline Name race_bin_14/14_1_1_circuit/14_1_1_finishline
+update_field gameplay race_bin_14/14_1_1_circuit Shortcuts[0] race_bin_14/14_1_1_circuit/shortcut1
+rename_node gameplay x/race_bin_14/14_1_2_cellphone_circuit/shortcut1 race_bin_14/14_1_1_circuit/shortcut1
+change_vault gameplay race_bin_14/14_1_1_circuit/shortcut1 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/shortcut1 Name race_bin_14/14_1_1_circuit/shortcut1
+update_field gameplay race_bin_14/14_1_1_circuit/shortcut1 CollectionName race_bin_14/14_1_1_circuit/shortcut1
+update_field gameplay race_bin_14/14_1_1_circuit Shortcuts[1] race_bin_14/14_1_1_circuit/shortcut2
+rename_node gameplay x/race_bin_14/14_1_2_cellphone_circuit/shortcut2 race_bin_14/14_1_1_circuit/shortcut2
+change_vault gameplay race_bin_14/14_1_1_circuit/shortcut2 14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit/shortcut2 Name race_bin_14/14_1_1_circuit/shortcut2
+update_field gameplay race_bin_14/14_1_1_circuit/shortcut2 CollectionName race_bin_14/14_1_1_circuit/shortcut2
+update_field gameplay race_bin_14/14_1_1_circuit Children[0] race_bin_14/14_1_1_circuit/startgrid
+update_field gameplay race_bin_14/14_1_1_circuit Children[1] race_bin_14/14_1_1_circuit/finishline
+update_field gameplay race_bin_14/14_1_1_circuit Children[2] race_bin_14/14_1_1_circuit/checkpoint1
+update_field gameplay race_bin_14/14_1_1_circuit Children[3] race_bin_14/14_1_1_circuit/checkpoint2
+update_field gameplay race_bin_14/14_1_1_circuit Children[4] race_bin_14/14_1_1_circuit/checkpoint3
+update_field gameplay race_bin_14/14_1_1_circuit Children[5] race_bin_14/14_1_1_circuit/checkpoint4
+update_field gameplay race_bin_14/14_1_1_circuit Children[6] race_bin_14/14_1_1_circuit/checkpoint5
+update_field gameplay race_bin_14/14_1_1_circuit Children[7] race_bin_14/14_1_1_circuit/checkpoint6
+update_field gameplay race_bin_14/14_1_1_circuit Children[8] race_bin_14/14_1_1_circuit/checkpoint7
+update_field gameplay race_bin_14/14_1_1_circuit Children[9] race_bin_14/14_1_1_circuit/shortcut1
+update_field gameplay race_bin_14/14_1_1_circuit Children[10] race_bin_14/14_1_1_circuit/shortcut2
+update_field gameplay race_bin_14/14_1_1_circuit Children[11] race_bin_14/14_1_1_circuit/shortcut3
+update_field gameplay race_bin_14/14_1_1_circuit Children[12] race_bin_14/14_1_1_circuit/shortcut4
+update_field gameplay race_bin_14/14_1_1_circuit Children[13] race_bin_14/14_1_1_circuit/shortcut5
+rename_node gameplay x/race_bin_14/14_1_2_cellphone_circuit/engage/engagetrigger_14_1_2 race_bin_14/engage/engagetrigger_14_1_1
+change_vault gameplay race_bin_14/engage/engagetrigger_14_1_1 race_bin_14
+update_field gameplay race_bin_14/engage/engagetrigger_14_1_1 CollectionName race_bin_14/engage/engagetrigger_14_1_1
+update_field gameplay race_bin_14/engage/engagetrigger_14_1_1 Name race_bin_14/engage/engagetrigger_14_1_1
+update_field gameplay race_bin_14/engage/engagetrigger_14_1_1 TargetActivity race_bin_14/14_1_1_circuit
+update_field gameplay race_bin_14/engage Children[0] race_bin_14/engage/engagetrigger_14_1_1
+update_field gameplay race_bin_14/engage RaceTriggers[0] race_bin_14/engage/engagetrigger_14_1_1
+update_field gameplay race_bin_14 WorldRaces[0] race_bin_14/14_1_1_circuit
+update_field gameplay race_bin_14 Children[2] race_bin_14/14_1_1_circuit
+update_field gameplay race_bin_14/14_1_1_circuit IntroNIS IntroNis01
+update_field gameplay race_bin_14/14_1_1_circuit TrafficLevel 7
+rename_node gameplay  x/14_2_1_sprint race_bin_14/14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint CollectionName race_bin_14/14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint Name race_bin_14/14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint gameplayvault 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[0] race_bin_14/14_2_1_sprint/ai_cp1
+rename_node gameplay x/14_2_1_sprint/ai_cp1 race_bin_14/14_2_1_sprint/ai_cp1
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp1 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp1 Name race_bin_14/14_2_1_sprint/ai_cp1
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp1 CollectionName race_bin_14/14_2_1_sprint/ai_cp1
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[1] race_bin_14/14_2_1_sprint/ai_cp2
+rename_node gameplay x/14_2_1_sprint/ai_cp2 race_bin_14/14_2_1_sprint/ai_cp2
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp2 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp2 Name race_bin_14/14_2_1_sprint/ai_cp2
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp2 CollectionName race_bin_14/14_2_1_sprint/ai_cp2
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[2] race_bin_14/14_2_1_sprint/ai_cp3
+rename_node gameplay x/14_2_1_sprint/ai_cp3 race_bin_14/14_2_1_sprint/ai_cp3
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp3 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp3 Name race_bin_14/14_2_1_sprint/ai_cp3
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp3 CollectionName race_bin_14/14_2_1_sprint/ai_cp3
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[3] race_bin_14/14_2_1_sprint/ai_cp4
+rename_node gameplay x/14_2_1_sprint/ai_cp4 race_bin_14/14_2_1_sprint/ai_cp4
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp4 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp4 Name race_bin_14/14_2_1_sprint/ai_cp4
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp4 CollectionName race_bin_14/14_2_1_sprint/ai_cp4
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[4] race_bin_14/14_2_1_sprint/ai_cp5
+rename_node gameplay x/14_2_1_sprint/ai_cp5 race_bin_14/14_2_1_sprint/ai_cp5
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp5 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp5 Name race_bin_14/14_2_1_sprint/ai_cp5
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp5 CollectionName race_bin_14/14_2_1_sprint/ai_cp5
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[5] race_bin_14/14_2_1_sprint/ai_cp6
+rename_node gameplay x/14_2_1_sprint/ai_cp6 race_bin_14/14_2_1_sprint/ai_cp6
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp6 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp6 Name race_bin_14/14_2_1_sprint/ai_cp6
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp6 CollectionName race_bin_14/14_2_1_sprint/ai_cp6
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[6] race_bin_14/14_2_1_sprint/ai_cp7
+rename_node gameplay x/14_2_1_sprint/ai_cp7 race_bin_14/14_2_1_sprint/ai_cp7
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp7 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp7 Name race_bin_14/14_2_1_sprint/ai_cp7
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp7 CollectionName race_bin_14/14_2_1_sprint/ai_cp7
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[7] race_bin_14/14_2_1_sprint/ai_cp8
+rename_node gameplay x/14_2_1_sprint/ai_cp8 race_bin_14/14_2_1_sprint/ai_cp8
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp8 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp8 Name race_bin_14/14_2_1_sprint/ai_cp8
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp8 CollectionName race_bin_14/14_2_1_sprint/ai_cp8
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[8] race_bin_14/14_2_1_sprint/ai_cp9
+rename_node gameplay x/14_2_1_sprint/ai_cp9 race_bin_14/14_2_1_sprint/ai_cp9
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp9 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp9 Name race_bin_14/14_2_1_sprint/ai_cp9
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp9 CollectionName race_bin_14/14_2_1_sprint/ai_cp9
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[9] race_bin_14/14_2_1_sprint/ai_cp10
+rename_node gameplay x/14_2_1_sprint/ai_cp10 race_bin_14/14_2_1_sprint/ai_cp10
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp10 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp10 Name race_bin_14/14_2_1_sprint/ai_cp10
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp10 CollectionName race_bin_14/14_2_1_sprint/ai_cp10
+update_field gameplay race_bin_14/14_2_1_sprint Checkpoint[10] race_bin_14/14_2_1_sprint/ai_cp11
+rename_node gameplay x/14_2_1_sprint/ai_cp11 race_bin_14/14_2_1_sprint/ai_cp11
+change_vault gameplay race_bin_14/14_2_1_sprint/ai_cp11 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp11 Name race_bin_14/14_2_1_sprint/ai_cp11
+update_field gameplay race_bin_14/14_2_1_sprint/ai_cp11 CollectionName race_bin_14/14_2_1_sprint/ai_cp11
+update_field gameplay race_bin_14/14_2_1_sprint racestart race_bin_14/14_2_1_sprint/14_2_1_startgrid
+rename_node gameplay x/race_bin_14/14_2_1_sprint/14_2_1_startgrid race_bin_14/14_2_1_sprint/14_2_1_startgrid
+change_vault gameplay race_bin_14/14_2_1_sprint/14_2_1_startgrid 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/14_2_1_startgrid CollectionName race_bin_14/14_2_1_sprint/14_2_1_startgrid
+update_field gameplay race_bin_14/14_2_1_sprint/14_2_1_startgrid Name race_bin_14/14_2_1_sprint/14_2_1_startgrid
+update_field gameplay race_bin_14/14_2_1_sprint racefinish race_bin_14/14_2_1_sprint/14_2_1_finishline
+rename_node gameplay x/race_bin_14/14_2_1_sprint/14_2_1_finishline race_bin_14/14_2_1_sprint/14_2_1_finishline
+change_vault gameplay race_bin_14/14_2_1_sprint/14_2_1_finishline 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/14_2_1_finishline CollectionName race_bin_14/14_2_1_sprint/14_2_1_finishline
+update_field gameplay race_bin_14/14_2_1_sprint/14_2_1_finishline Name race_bin_14/14_2_1_sprint/14_2_1_finishline
+update_field gameplay race_bin_14/14_2_1_sprint Shortcuts[0] race_bin_14/14_2_1_sprint/shortcut1
+rename_node gameplay x/race_bin_14/14_2_1_sprint/shortcut1 race_bin_14/14_2_1_sprint/shortcut1
+change_vault gameplay race_bin_14/14_2_1_sprint/shortcut1 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/shortcut1 Name race_bin_14/14_2_1_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_1_sprint/shortcut1 CollectionName race_bin_14/14_2_1_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_1_sprint Shortcuts[1] race_bin_14/14_2_1_sprint/shortcut2
+rename_node gameplay x/race_bin_14/14_2_1_sprint/shortcut2 race_bin_14/14_2_1_sprint/shortcut2
+change_vault gameplay race_bin_14/14_2_1_sprint/shortcut2 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/shortcut2 Name race_bin_14/14_2_1_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_1_sprint/shortcut2 CollectionName race_bin_14/14_2_1_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_1_sprint Children[0] race_bin_14/14_2_1_sprint/startgrid
+update_field gameplay race_bin_14/14_2_1_sprint Children[1] race_bin_14/14_2_1_sprint/finishline
+update_field gameplay race_bin_14/14_2_1_sprint Children[2] race_bin_14/14_2_1_sprint/checkpoint1
+update_field gameplay race_bin_14/14_2_1_sprint Children[3] race_bin_14/14_2_1_sprint/checkpoint2
+update_field gameplay race_bin_14/14_2_1_sprint Children[4] race_bin_14/14_2_1_sprint/checkpoint3
+update_field gameplay race_bin_14/14_2_1_sprint Children[5] race_bin_14/14_2_1_sprint/checkpoint4
+update_field gameplay race_bin_14/14_2_1_sprint Children[6] race_bin_14/14_2_1_sprint/checkpoint5
+update_field gameplay race_bin_14/14_2_1_sprint Children[7] race_bin_14/14_2_1_sprint/checkpoint6
+update_field gameplay race_bin_14/14_2_1_sprint Children[8] race_bin_14/14_2_1_sprint/checkpoint7
+update_field gameplay race_bin_14/14_2_1_sprint Children[9] race_bin_14/14_2_1_sprint/checkpoint8
+update_field gameplay race_bin_14/14_2_1_sprint Children[10] race_bin_14/14_2_1_sprint/checkpoint9
+update_field gameplay race_bin_14/14_2_1_sprint Children[11] race_bin_14/14_2_1_sprint/checkpoint10
+update_field gameplay race_bin_14/14_2_1_sprint Children[12] race_bin_14/14_2_1_sprint/checkpoint11
+update_field gameplay race_bin_14/14_2_1_sprint Children[13] race_bin_14/14_2_1_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_1_sprint Children[14] race_bin_14/14_2_1_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_1_sprint Children[15] race_bin_14/14_2_1_sprint/wrongway
+rename_node gameplay x/race_bin_14/14_2_1_sprint/wrongway race_bin_14/14_2_1_sprint/wrongway
+change_vault gameplay race_bin_14/14_2_1_sprint/wrongway 14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint/wrongway Name race_bin_14/14_2_1_sprint/wrongway
+update_field gameplay race_bin_14/14_2_1_sprint/wrongway CollectionName race_bin_14/14_2_1_sprint/wrongway
+rename_node gameplay x/race_bin_14/14_2_1_sprint/engage/engagetrigger_14_2_1 race_bin_14/engage/engagetrigger_14_2_1
+change_vault gameplay race_bin_14/engage/engagetrigger_14_2_1 race_bin_14
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_1 CollectionName race_bin_14/engage/engagetrigger_14_2_1
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_1 Name race_bin_14/engage/engagetrigger_14_2_1
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_1 TargetActivity race_bin_14/14_2_1_sprint
+update_field gameplay race_bin_14/engage Children[1] race_bin_14/engage/engagetrigger_14_2_1
+update_field gameplay race_bin_14/engage RaceTriggers[1] race_bin_14/engage/engagetrigger_14_2_1
+update_field gameplay race_bin_14 WorldRaces[1] race_bin_14/14_2_1_sprint
+update_field gameplay race_bin_14 Children[3] race_bin_14/14_2_1_sprint
+update_field gameplay race_bin_14/14_2_1_sprint IntroNIS IntroNis06
+update_field gameplay race_bin_14/14_2_1_sprint TrafficLevel 47
+rename_node gameplay  x/15_3_1_knockout race_bin_14/14_3_1_knockout
+change_vault gameplay race_bin_14/14_3_1_knockout race_bin_14
+update_field gameplay race_bin_14/14_3_1_knockout CollectionName race_bin_14/14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout Name race_bin_14/14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout gameplayvault 14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout Checkpoint[0] race_bin_14/14_3_1_knockout/ai_cp1
+rename_node gameplay x/15_3_1_knockout/ai_cp1 race_bin_14/14_3_1_knockout/ai_cp1
+change_vault gameplay race_bin_14/14_3_1_knockout/ai_cp1 14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp1 Name race_bin_14/14_3_1_knockout/ai_cp1
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp1 CollectionName race_bin_14/14_3_1_knockout/ai_cp1
+update_field gameplay race_bin_14/14_3_1_knockout Checkpoint[1] race_bin_14/14_3_1_knockout/ai_cp2
+rename_node gameplay x/15_3_1_knockout/ai_cp2 race_bin_14/14_3_1_knockout/ai_cp2
+change_vault gameplay race_bin_14/14_3_1_knockout/ai_cp2 14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp2 Name race_bin_14/14_3_1_knockout/ai_cp2
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp2 CollectionName race_bin_14/14_3_1_knockout/ai_cp2
+update_field gameplay race_bin_14/14_3_1_knockout Checkpoint[2] race_bin_14/14_3_1_knockout/ai_cp3
+rename_node gameplay x/15_3_1_knockout/ai_cp3 race_bin_14/14_3_1_knockout/ai_cp3
+change_vault gameplay race_bin_14/14_3_1_knockout/ai_cp3 14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp3 Name race_bin_14/14_3_1_knockout/ai_cp3
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp3 CollectionName race_bin_14/14_3_1_knockout/ai_cp3
+update_field gameplay race_bin_14/14_3_1_knockout Checkpoint[3] race_bin_14/14_3_1_knockout/ai_cp4
+rename_node gameplay x/15_3_1_knockout/ai_cp4 race_bin_14/14_3_1_knockout/ai_cp4
+change_vault gameplay race_bin_14/14_3_1_knockout/ai_cp4 14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp4 Name race_bin_14/14_3_1_knockout/ai_cp4
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp4 CollectionName race_bin_14/14_3_1_knockout/ai_cp4
+update_field gameplay race_bin_14/14_3_1_knockout Checkpoint[4] race_bin_14/14_3_1_knockout/ai_cp5
+rename_node gameplay x/15_3_1_knockout/ai_cp5 race_bin_14/14_3_1_knockout/ai_cp5
+change_vault gameplay race_bin_14/14_3_1_knockout/ai_cp5 14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp5 Name race_bin_14/14_3_1_knockout/ai_cp5
+update_field gameplay race_bin_14/14_3_1_knockout/ai_cp5 CollectionName race_bin_14/14_3_1_knockout/ai_cp5
+update_field gameplay race_bin_14/14_3_1_knockout racestart race_bin_14/14_3_1_knockout/startgrid
+rename_node gameplay x/race_bin_15/15_3_1_knockout/startgrid race_bin_14/14_3_1_knockout/startgrid
+change_vault gameplay race_bin_14/14_3_1_knockout/startgrid 14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout/startgrid CollectionName race_bin_14/14_3_1_knockout/startgrid
+update_field gameplay race_bin_14/14_3_1_knockout/startgrid Name race_bin_14/14_3_1_knockout/startgrid
+update_field gameplay race_bin_14/14_3_1_knockout racefinish race_bin_14/14_3_1_knockout/finishline
+rename_node gameplay x/race_bin_15/15_3_1_knockout/finishline race_bin_14/14_3_1_knockout/finishline
+change_vault gameplay race_bin_14/14_3_1_knockout/finishline 14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout/finishline CollectionName race_bin_14/14_3_1_knockout/finishline
+update_field gameplay race_bin_14/14_3_1_knockout/finishline Name race_bin_14/14_3_1_knockout/finishline
+update_field gameplay race_bin_14/14_3_1_knockout Children[0] race_bin_14/14_3_1_knockout/startgrid
+update_field gameplay race_bin_14/14_3_1_knockout Children[1] race_bin_14/14_3_1_knockout/finishline
+update_field gameplay race_bin_14/14_3_1_knockout Children[2] race_bin_14/14_3_1_knockout/checkpoint1
+update_field gameplay race_bin_14/14_3_1_knockout Children[3] race_bin_14/14_3_1_knockout/checkpoint2
+update_field gameplay race_bin_14/14_3_1_knockout Children[4] race_bin_14/14_3_1_knockout/checkpoint3
+update_field gameplay race_bin_14/14_3_1_knockout Children[5] race_bin_14/14_3_1_knockout/checkpoint4
+update_field gameplay race_bin_14/14_3_1_knockout Children[6] race_bin_14/14_3_1_knockout/checkpoint5
+rename_node gameplay x/race_bin_15/15_3_1_knockout/engage/engagetrigger_15_3_1 race_bin_14/engage/engagetrigger_14_3_1
+change_vault gameplay race_bin_14/engage/engagetrigger_14_3_1 race_bin_14
+update_field gameplay race_bin_14/engage/engagetrigger_14_3_1 CollectionName race_bin_14/engage/engagetrigger_14_3_1
+update_field gameplay race_bin_14/engage/engagetrigger_14_3_1 Name race_bin_14/engage/engagetrigger_14_3_1
+update_field gameplay race_bin_14/engage/engagetrigger_14_3_1 TargetActivity race_bin_14/14_3_1_knockout
+update_field gameplay race_bin_14/engage Children[2] race_bin_14/engage/engagetrigger_14_3_1
+update_field gameplay race_bin_14/engage RaceTriggers[2] race_bin_14/engage/engagetrigger_14_3_1
+delete_field gameplay race_bin_14/engage/engagetrigger_14_3_1 InitiallyUnlocked
+update_field gameplay race_bin_14/14_3_1_knockout Opponents[0] race_bin_14/character1
+update_field gameplay race_bin_14/14_3_1_knockout Opponents[1] race_bin_14/character2
+update_field gameplay race_bin_14/14_3_1_knockout Opponents[2] race_bin_14/character3
+update_field gameplay race_bin_14/14_3_1_knockout CashValue 2000
+update_field gameplay race_bin_14 WorldRaces[2] race_bin_14/14_3_1_knockout
+update_field gameplay race_bin_14 Children[4] race_bin_14/14_3_1_knockout
+update_field gameplay race_bin_14/14_3_1_knockout IntroNIS IntroNis03
+update_field gameplay race_bin_14/14_3_1_knockout TrafficLevel 15
+rename_node gameplay  x/15_2_1_sprint race_bin_14/14_2_2_sprint
+change_vault gameplay race_bin_14/14_2_2_sprint race_bin_14
+update_field gameplay race_bin_14/14_2_2_sprint CollectionName race_bin_14/14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint Name race_bin_14/14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint gameplayvault 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[0] race_bin_14/14_2_2_sprint/ai_cp1
+rename_node gameplay x/15_2_1_sprint/ai_cp1 race_bin_14/14_2_2_sprint/ai_cp1
+change_vault gameplay race_bin_14/14_2_2_sprint/ai_cp1 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp1 Name race_bin_14/14_2_2_sprint/ai_cp1
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp1 CollectionName race_bin_14/14_2_2_sprint/ai_cp1
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[1] race_bin_14/14_2_2_sprint/ai_cp2
+rename_node gameplay x/15_2_1_sprint/ai_cp2 race_bin_14/14_2_2_sprint/ai_cp2
+change_vault gameplay race_bin_14/14_2_2_sprint/ai_cp2 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp2 Name race_bin_14/14_2_2_sprint/ai_cp2
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp2 CollectionName race_bin_14/14_2_2_sprint/ai_cp2
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[2] race_bin_14/14_2_2_sprint/ai_cp3
+rename_node gameplay x/15_2_1_sprint/ai_cp3 race_bin_14/14_2_2_sprint/ai_cp3
+change_vault gameplay race_bin_14/14_2_2_sprint/ai_cp3 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp3 Name race_bin_14/14_2_2_sprint/ai_cp3
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp3 CollectionName race_bin_14/14_2_2_sprint/ai_cp3
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[3] race_bin_14/14_2_2_sprint/ai_cp4
+rename_node gameplay x/15_2_1_sprint/ai_cp4 race_bin_14/14_2_2_sprint/ai_cp4
+change_vault gameplay race_bin_14/14_2_2_sprint/ai_cp4 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp4 Name race_bin_14/14_2_2_sprint/ai_cp4
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp4 CollectionName race_bin_14/14_2_2_sprint/ai_cp4
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[4] race_bin_14/14_2_2_sprint/ai_cp5
+rename_node gameplay x/15_2_1_sprint/ai_cp5 race_bin_14/14_2_2_sprint/ai_cp5
+change_vault gameplay race_bin_14/14_2_2_sprint/ai_cp5 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp5 Name race_bin_14/14_2_2_sprint/ai_cp5
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp5 CollectionName race_bin_14/14_2_2_sprint/ai_cp5
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[5] race_bin_14/14_2_2_sprint/ai_cp6
+rename_node gameplay x/15_2_1_sprint/ai_cp6 race_bin_14/14_2_2_sprint/ai_cp6
+change_vault gameplay race_bin_14/14_2_2_sprint/ai_cp6 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp6 Name race_bin_14/14_2_2_sprint/ai_cp6
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp6 CollectionName race_bin_14/14_2_2_sprint/ai_cp6
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[6] race_bin_14/14_2_2_sprint/ai_cp7
+rename_node gameplay x/15_2_1_sprint/ai_cp7 race_bin_14/14_2_2_sprint/ai_cp7
+change_vault gameplay race_bin_14/14_2_2_sprint/ai_cp7 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp7 Name race_bin_14/14_2_2_sprint/ai_cp7
+update_field gameplay race_bin_14/14_2_2_sprint/ai_cp7 CollectionName race_bin_14/14_2_2_sprint/ai_cp7
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[7] race_bin_14/14_2_2_sprint/cp_8
+rename_node gameplay x/15_2_1_sprint/cp_8 race_bin_14/14_2_2_sprint/cp_8
+change_vault gameplay race_bin_14/14_2_2_sprint/cp_8 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/cp_8 Name race_bin_14/14_2_2_sprint/cp_8
+update_field gameplay race_bin_14/14_2_2_sprint/cp_8 CollectionName race_bin_14/14_2_2_sprint/cp_8
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[8] race_bin_14/14_2_2_sprint/cp_9
+rename_node gameplay x/15_2_1_sprint/cp_9 race_bin_14/14_2_2_sprint/cp_9
+change_vault gameplay race_bin_14/14_2_2_sprint/cp_9 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/cp_9 Name race_bin_14/14_2_2_sprint/cp_9
+update_field gameplay race_bin_14/14_2_2_sprint/cp_9 CollectionName race_bin_14/14_2_2_sprint/cp_9
+update_field gameplay race_bin_14/14_2_2_sprint Checkpoint[9] race_bin_14/14_2_2_sprint/cp_10
+rename_node gameplay x/15_2_1_sprint/cp_10 race_bin_14/14_2_2_sprint/cp_10
+change_vault gameplay race_bin_14/14_2_2_sprint/cp_10 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/cp_10 Name race_bin_14/14_2_2_sprint/cp_10
+update_field gameplay race_bin_14/14_2_2_sprint/cp_10 CollectionName race_bin_14/14_2_2_sprint/cp_10
+update_field gameplay race_bin_14/14_2_2_sprint racestart race_bin_14/14_2_2_sprint/startgrid
+rename_node gameplay x/race_bin_15/15_2_1_sprint/startgrid race_bin_14/14_2_2_sprint/startgrid
+change_vault gameplay race_bin_14/14_2_2_sprint/startgrid 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/startgrid CollectionName race_bin_14/14_2_2_sprint/startgrid
+update_field gameplay race_bin_14/14_2_2_sprint/startgrid Name race_bin_14/14_2_2_sprint/startgrid
+update_field gameplay race_bin_14/14_2_2_sprint racefinish race_bin_14/14_2_2_sprint/finishline
+rename_node gameplay x/race_bin_15/15_2_1_sprint/finishline race_bin_14/14_2_2_sprint/finishline
+change_vault gameplay race_bin_14/14_2_2_sprint/finishline 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/finishline CollectionName race_bin_14/14_2_2_sprint/finishline
+update_field gameplay race_bin_14/14_2_2_sprint/finishline Name race_bin_14/14_2_2_sprint/finishline
+update_field gameplay race_bin_14/14_2_2_sprint Shortcuts[0] race_bin_14/14_2_2_sprint/shortcut1
+rename_node gameplay x/race_bin_15/15_2_1_sprint/shortcut1 race_bin_14/14_2_2_sprint/shortcut1
+change_vault gameplay race_bin_14/14_2_2_sprint/shortcut1 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/shortcut1 Name race_bin_14/14_2_2_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_2_sprint/shortcut1 CollectionName race_bin_14/14_2_2_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_2_sprint Shortcuts[1] race_bin_14/14_2_2_sprint/shortcut2
+rename_node gameplay x/race_bin_15/15_2_1_sprint/shortcut2 race_bin_14/14_2_2_sprint/shortcut2
+change_vault gameplay race_bin_14/14_2_2_sprint/shortcut2 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/shortcut2 Name race_bin_14/14_2_2_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_2_sprint/shortcut2 CollectionName race_bin_14/14_2_2_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_2_sprint Children[0] race_bin_14/14_2_2_sprint/startgrid
+update_field gameplay race_bin_14/14_2_2_sprint Children[1] race_bin_14/14_2_2_sprint/finishline
+update_field gameplay race_bin_14/14_2_2_sprint Children[2] race_bin_14/14_2_2_sprint/checkpoint1
+update_field gameplay race_bin_14/14_2_2_sprint Children[3] race_bin_14/14_2_2_sprint/checkpoint2
+update_field gameplay race_bin_14/14_2_2_sprint Children[4] race_bin_14/14_2_2_sprint/checkpoint3
+update_field gameplay race_bin_14/14_2_2_sprint Children[5] race_bin_14/14_2_2_sprint/checkpoint4
+update_field gameplay race_bin_14/14_2_2_sprint Children[6] race_bin_14/14_2_2_sprint/checkpoint5
+update_field gameplay race_bin_14/14_2_2_sprint Children[7] race_bin_14/14_2_2_sprint/checkpoint6
+update_field gameplay race_bin_14/14_2_2_sprint Children[8] race_bin_14/14_2_2_sprint/checkpoint7
+update_field gameplay race_bin_14/14_2_2_sprint Children[9] race_bin_14/14_2_2_sprint/checkpoint8
+update_field gameplay race_bin_14/14_2_2_sprint Children[10] race_bin_14/14_2_2_sprint/checkpoint9
+update_field gameplay race_bin_14/14_2_2_sprint Children[11] race_bin_14/14_2_2_sprint/checkpoint10
+update_field gameplay race_bin_14/14_2_2_sprint Children[12] 0x00000000
+update_field gameplay race_bin_14/14_2_2_sprint Children[13] race_bin_14/14_2_2_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_2_sprint Children[14] race_bin_14/14_2_2_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_2_sprint Children[15] race_bin_14/14_2_2_sprint/wrongway
+rename_node gameplay x/race_bin_15/15_2_1_sprint/wrongway race_bin_14/14_2_2_sprint/wrongway
+change_vault gameplay race_bin_14/14_2_2_sprint/wrongway 14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint/wrongway Name race_bin_14/14_2_2_sprint/wrongway
+update_field gameplay race_bin_14/14_2_2_sprint/wrongway CollectionName race_bin_14/14_2_2_sprint/wrongway
+rename_node gameplay x/race_bin_15/15_2_1_sprint/engage/engagetrigger_15_2_1 race_bin_14/engage/engagetrigger_14_2_2
+change_vault gameplay race_bin_14/engage/engagetrigger_14_2_2 race_bin_14
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_2 CollectionName race_bin_14/engage/engagetrigger_14_2_2
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_2 Name race_bin_14/engage/engagetrigger_14_2_2
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_2 TargetActivity race_bin_14/14_2_2_sprint
+update_field gameplay race_bin_14/engage Children[3] race_bin_14/engage/engagetrigger_14_2_2
+update_field gameplay race_bin_14/engage RaceTriggers[3] race_bin_14/engage/engagetrigger_14_2_2
+update_field gameplay race_bin_14/14_2_2_sprint Opponents[0] race_bin_14/character1
+update_field gameplay race_bin_14/14_2_2_sprint Opponents[1] race_bin_14/character2
+update_field gameplay race_bin_14/14_2_2_sprint Opponents[2] race_bin_14/character3
+update_field gameplay race_bin_14/14_2_2_sprint CashValue 2000
+update_field gameplay race_bin_14 WorldRaces[3] race_bin_14/14_2_2_sprint
+update_field gameplay race_bin_14 Children[5] race_bin_14/14_2_2_sprint
+update_field gameplay race_bin_14/14_2_2_sprint IntroNIS IntroNis04
+update_field gameplay race_bin_14/14_2_2_sprint TrafficLevel 26
+rename_node gameplay  x/14_3_1_lapknockout race_bin_14/14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout CollectionName race_bin_14/14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout Name race_bin_14/14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout gameplayvault 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout Checkpoint[0] race_bin_14/14_3_2_knockout/ai_cp1
+rename_node gameplay x/14_3_1_lapknockout/ai_cp1 race_bin_14/14_3_2_knockout/ai_cp1
+change_vault gameplay race_bin_14/14_3_2_knockout/ai_cp1 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp1 Name race_bin_14/14_3_2_knockout/ai_cp1
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp1 CollectionName race_bin_14/14_3_2_knockout/ai_cp1
+update_field gameplay race_bin_14/14_3_2_knockout Checkpoint[1] race_bin_14/14_3_2_knockout/ai_cp2
+rename_node gameplay x/14_3_1_lapknockout/ai_cp2 race_bin_14/14_3_2_knockout/ai_cp2
+change_vault gameplay race_bin_14/14_3_2_knockout/ai_cp2 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp2 Name race_bin_14/14_3_2_knockout/ai_cp2
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp2 CollectionName race_bin_14/14_3_2_knockout/ai_cp2
+update_field gameplay race_bin_14/14_3_2_knockout Checkpoint[2] race_bin_14/14_3_2_knockout/ai_cp3
+rename_node gameplay x/14_3_1_lapknockout/ai_cp3 race_bin_14/14_3_2_knockout/ai_cp3
+change_vault gameplay race_bin_14/14_3_2_knockout/ai_cp3 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp3 Name race_bin_14/14_3_2_knockout/ai_cp3
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp3 CollectionName race_bin_14/14_3_2_knockout/ai_cp3
+update_field gameplay race_bin_14/14_3_2_knockout Checkpoint[3] race_bin_14/14_3_2_knockout/ai_cp4
+rename_node gameplay x/14_3_1_lapknockout/ai_cp4 race_bin_14/14_3_2_knockout/ai_cp4
+change_vault gameplay race_bin_14/14_3_2_knockout/ai_cp4 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp4 Name race_bin_14/14_3_2_knockout/ai_cp4
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp4 CollectionName race_bin_14/14_3_2_knockout/ai_cp4
+update_field gameplay race_bin_14/14_3_2_knockout Checkpoint[4] race_bin_14/14_3_2_knockout/ai_cp5
+rename_node gameplay x/14_3_1_lapknockout/ai_cp5 race_bin_14/14_3_2_knockout/ai_cp5
+change_vault gameplay race_bin_14/14_3_2_knockout/ai_cp5 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp5 Name race_bin_14/14_3_2_knockout/ai_cp5
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp5 CollectionName race_bin_14/14_3_2_knockout/ai_cp5
+update_field gameplay race_bin_14/14_3_2_knockout Checkpoint[5] race_bin_14/14_3_2_knockout/ai_cp6
+rename_node gameplay x/14_3_1_lapknockout/ai_cp6 race_bin_14/14_3_2_knockout/ai_cp6
+change_vault gameplay race_bin_14/14_3_2_knockout/ai_cp6 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp6 Name race_bin_14/14_3_2_knockout/ai_cp6
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp6 CollectionName race_bin_14/14_3_2_knockout/ai_cp6
+update_field gameplay race_bin_14/14_3_2_knockout Checkpoint[6] race_bin_14/14_3_2_knockout/ai_cp7
+rename_node gameplay x/14_3_1_lapknockout/ai_cp7 race_bin_14/14_3_2_knockout/ai_cp7
+change_vault gameplay race_bin_14/14_3_2_knockout/ai_cp7 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp7 Name race_bin_14/14_3_2_knockout/ai_cp7
+update_field gameplay race_bin_14/14_3_2_knockout/ai_cp7 CollectionName race_bin_14/14_3_2_knockout/ai_cp7
+update_field gameplay race_bin_14/14_3_2_knockout racestart race_bin_14/14_3_2_knockout/14_3_2_startgrid
+rename_node gameplay x/race_bin_14/14_3_1_lapknockout/14_3_1_startgrid race_bin_14/14_3_2_knockout/14_3_2_startgrid
+change_vault gameplay race_bin_14/14_3_2_knockout/14_3_2_startgrid 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/14_3_2_startgrid CollectionName race_bin_14/14_3_2_knockout/14_3_2_startgrid
+update_field gameplay race_bin_14/14_3_2_knockout/14_3_2_startgrid Name race_bin_14/14_3_2_knockout/14_3_2_startgrid
+update_field gameplay race_bin_14/14_3_2_knockout racefinish race_bin_14/14_3_2_knockout/14_3_2_finishline
+rename_node gameplay x/race_bin_14/14_3_1_lapknockout/14_3_1_finishline race_bin_14/14_3_2_knockout/14_3_2_finishline
+change_vault gameplay race_bin_14/14_3_2_knockout/14_3_2_finishline 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/14_3_2_finishline CollectionName race_bin_14/14_3_2_knockout/14_3_2_finishline
+update_field gameplay race_bin_14/14_3_2_knockout/14_3_2_finishline Name race_bin_14/14_3_2_knockout/14_3_2_finishline
+update_field gameplay race_bin_14/14_3_2_knockout Shortcuts[0] race_bin_14/14_3_2_knockout/shortcut1
+rename_node gameplay x/race_bin_14/14_3_1_lapknockout/shortcut1 race_bin_14/14_3_2_knockout/shortcut1
+change_vault gameplay race_bin_14/14_3_2_knockout/shortcut1 14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout/shortcut1 Name race_bin_14/14_3_2_knockout/shortcut1
+update_field gameplay race_bin_14/14_3_2_knockout/shortcut1 CollectionName race_bin_14/14_3_2_knockout/shortcut1
+update_field gameplay race_bin_14/14_3_2_knockout Children[0] race_bin_14/14_3_2_knockout/startgrid
+update_field gameplay race_bin_14/14_3_2_knockout Children[1] race_bin_14/14_3_2_knockout/finishline
+update_field gameplay race_bin_14/14_3_2_knockout Children[2] race_bin_14/14_3_2_knockout/checkpoint1
+update_field gameplay race_bin_14/14_3_2_knockout Children[3] race_bin_14/14_3_2_knockout/checkpoint2
+update_field gameplay race_bin_14/14_3_2_knockout Children[4] race_bin_14/14_3_2_knockout/checkpoint3
+update_field gameplay race_bin_14/14_3_2_knockout Children[5] race_bin_14/14_3_2_knockout/checkpoint4
+update_field gameplay race_bin_14/14_3_2_knockout Children[6] race_bin_14/14_3_2_knockout/checkpoint5
+update_field gameplay race_bin_14/14_3_2_knockout Children[7] race_bin_14/14_3_2_knockout/checkpoint6
+update_field gameplay race_bin_14/14_3_2_knockout Children[8] race_bin_14/14_3_2_knockout/checkpoint7
+update_field gameplay race_bin_14/14_3_2_knockout Children[9] race_bin_14/14_3_2_knockout/shortcut1
+rename_node gameplay x/race_bin_14/14_3_1_lapknockout/engage/engagetrigger_14_3_1 race_bin_14/engage/engagetrigger_14_3_2
+change_vault gameplay race_bin_14/engage/engagetrigger_14_3_2 race_bin_14
+update_field gameplay race_bin_14/engage/engagetrigger_14_3_2 CollectionName race_bin_14/engage/engagetrigger_14_3_2
+update_field gameplay race_bin_14/engage/engagetrigger_14_3_2 Name race_bin_14/engage/engagetrigger_14_3_2
+update_field gameplay race_bin_14/engage/engagetrigger_14_3_2 TargetActivity race_bin_14/14_3_2_knockout
+update_field gameplay race_bin_14/engage Children[4] race_bin_14/engage/engagetrigger_14_3_2
+update_field gameplay race_bin_14/engage RaceTriggers[4] race_bin_14/engage/engagetrigger_14_3_2
+update_field gameplay race_bin_14 WorldRaces[4] race_bin_14/14_3_2_knockout
+update_field gameplay race_bin_14 Children[6] race_bin_14/14_3_2_knockout
+update_field gameplay race_bin_14/14_3_2_knockout IntroNIS IntroNis09
+update_field gameplay race_bin_14/14_3_2_knockout TrafficLevel 28
+rename_node gameplay  x/14_1_1_circuit race_bin_14/14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit CollectionName race_bin_14/14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit Name race_bin_14/14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit gameplayvault 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit Checkpoint[0] race_bin_14/14_1_2_circuit/ai_cp1
+rename_node gameplay x/14_1_1_circuit/ai_cp1 race_bin_14/14_1_2_circuit/ai_cp1
+change_vault gameplay race_bin_14/14_1_2_circuit/ai_cp1 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp1 Name race_bin_14/14_1_2_circuit/ai_cp1
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp1 CollectionName race_bin_14/14_1_2_circuit/ai_cp1
+update_field gameplay race_bin_14/14_1_2_circuit Checkpoint[1] race_bin_14/14_1_2_circuit/ai_cp2
+rename_node gameplay x/14_1_1_circuit/ai_cp2 race_bin_14/14_1_2_circuit/ai_cp2
+change_vault gameplay race_bin_14/14_1_2_circuit/ai_cp2 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp2 Name race_bin_14/14_1_2_circuit/ai_cp2
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp2 CollectionName race_bin_14/14_1_2_circuit/ai_cp2
+update_field gameplay race_bin_14/14_1_2_circuit Checkpoint[2] race_bin_14/14_1_2_circuit/ai_cp3
+rename_node gameplay x/14_1_1_circuit/ai_cp3 race_bin_14/14_1_2_circuit/ai_cp3
+change_vault gameplay race_bin_14/14_1_2_circuit/ai_cp3 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp3 Name race_bin_14/14_1_2_circuit/ai_cp3
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp3 CollectionName race_bin_14/14_1_2_circuit/ai_cp3
+update_field gameplay race_bin_14/14_1_2_circuit Checkpoint[3] race_bin_14/14_1_2_circuit/ai_cp4
+rename_node gameplay x/14_1_1_circuit/ai_cp4 race_bin_14/14_1_2_circuit/ai_cp4
+change_vault gameplay race_bin_14/14_1_2_circuit/ai_cp4 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp4 Name race_bin_14/14_1_2_circuit/ai_cp4
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp4 CollectionName race_bin_14/14_1_2_circuit/ai_cp4
+update_field gameplay race_bin_14/14_1_2_circuit Checkpoint[4] race_bin_14/14_1_2_circuit/ai_cp5
+rename_node gameplay x/14_1_1_circuit/ai_cp5 race_bin_14/14_1_2_circuit/ai_cp5
+change_vault gameplay race_bin_14/14_1_2_circuit/ai_cp5 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp5 Name race_bin_14/14_1_2_circuit/ai_cp5
+update_field gameplay race_bin_14/14_1_2_circuit/ai_cp5 CollectionName race_bin_14/14_1_2_circuit/ai_cp5
+update_field gameplay race_bin_14/14_1_2_circuit racestart race_bin_14/14_1_2_circuit/14_1_2_startgrid
+rename_node gameplay x/race_bin_14/14_1_1_circuit/14_1_1_startgrid race_bin_14/14_1_2_circuit/14_1_2_startgrid
+change_vault gameplay race_bin_14/14_1_2_circuit/14_1_2_startgrid 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/14_1_2_startgrid CollectionName race_bin_14/14_1_2_circuit/14_1_2_startgrid
+update_field gameplay race_bin_14/14_1_2_circuit/14_1_2_startgrid Name race_bin_14/14_1_2_circuit/14_1_2_startgrid
+update_field gameplay race_bin_14/14_1_2_circuit racefinish race_bin_14/14_1_2_circuit/14_1_2_finishline
+rename_node gameplay x/race_bin_14/14_1_1_circuit/14_1_1_finishline race_bin_14/14_1_2_circuit/14_1_2_finishline
+change_vault gameplay race_bin_14/14_1_2_circuit/14_1_2_finishline 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/14_1_2_finishline CollectionName race_bin_14/14_1_2_circuit/14_1_2_finishline
+update_field gameplay race_bin_14/14_1_2_circuit/14_1_2_finishline Name race_bin_14/14_1_2_circuit/14_1_2_finishline
+update_field gameplay race_bin_14/14_1_2_circuit Shortcuts[0] race_bin_14/14_1_2_circuit/shortcut1
+rename_node gameplay x/race_bin_14/14_1_1_circuit/shortcut1 race_bin_14/14_1_2_circuit/shortcut1
+change_vault gameplay race_bin_14/14_1_2_circuit/shortcut1 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/shortcut1 Name race_bin_14/14_1_2_circuit/shortcut1
+update_field gameplay race_bin_14/14_1_2_circuit/shortcut1 CollectionName race_bin_14/14_1_2_circuit/shortcut1
+update_field gameplay race_bin_14/14_1_2_circuit Shortcuts[1] race_bin_14/14_1_2_circuit/shortcut2
+rename_node gameplay x/race_bin_14/14_1_1_circuit/shortcut2 race_bin_14/14_1_2_circuit/shortcut2
+change_vault gameplay race_bin_14/14_1_2_circuit/shortcut2 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/shortcut2 Name race_bin_14/14_1_2_circuit/shortcut2
+update_field gameplay race_bin_14/14_1_2_circuit/shortcut2 CollectionName race_bin_14/14_1_2_circuit/shortcut2
+update_field gameplay race_bin_14/14_1_2_circuit Shortcuts[2] race_bin_14/14_1_2_circuit/shortcut3
+rename_node gameplay x/race_bin_14/14_1_1_circuit/shortcut3 race_bin_14/14_1_2_circuit/shortcut3
+change_vault gameplay race_bin_14/14_1_2_circuit/shortcut3 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/shortcut3 Name race_bin_14/14_1_2_circuit/shortcut3
+update_field gameplay race_bin_14/14_1_2_circuit/shortcut3 CollectionName race_bin_14/14_1_2_circuit/shortcut3
+update_field gameplay race_bin_14/14_1_2_circuit Shortcuts[3] race_bin_14/14_1_2_circuit/shortcut4
+rename_node gameplay x/race_bin_14/14_1_1_circuit/shortcut4 race_bin_14/14_1_2_circuit/shortcut4
+change_vault gameplay race_bin_14/14_1_2_circuit/shortcut4 14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit/shortcut4 Name race_bin_14/14_1_2_circuit/shortcut4
+update_field gameplay race_bin_14/14_1_2_circuit/shortcut4 CollectionName race_bin_14/14_1_2_circuit/shortcut4
+update_field gameplay race_bin_14/14_1_2_circuit Children[0] race_bin_14/14_1_2_circuit/startgrid
+update_field gameplay race_bin_14/14_1_2_circuit Children[1] race_bin_14/14_1_2_circuit/finishline
+update_field gameplay race_bin_14/14_1_2_circuit Children[2] race_bin_14/14_1_2_circuit/checkpoint1
+update_field gameplay race_bin_14/14_1_2_circuit Children[3] race_bin_14/14_1_2_circuit/checkpoint2
+update_field gameplay race_bin_14/14_1_2_circuit Children[4] race_bin_14/14_1_2_circuit/checkpoint3
+update_field gameplay race_bin_14/14_1_2_circuit Children[5] race_bin_14/14_1_2_circuit/checkpoint4
+update_field gameplay race_bin_14/14_1_2_circuit Children[6] race_bin_14/14_1_2_circuit/checkpoint5
+update_field gameplay race_bin_14/14_1_2_circuit Children[7] race_bin_14/14_1_2_circuit/shortcut1
+update_field gameplay race_bin_14/14_1_2_circuit Children[8] race_bin_14/14_1_2_circuit/shortcut2
+update_field gameplay race_bin_14/14_1_2_circuit Children[9] race_bin_14/14_1_2_circuit/shortcut3
+update_field gameplay race_bin_14/14_1_2_circuit Children[10] race_bin_14/14_1_2_circuit/shortcut4
+rename_node gameplay x/race_bin_14/14_1_1_circuit/engage/engagetrigger_14_1_1 race_bin_14/engage/engagetrigger_14_1_2
+change_vault gameplay race_bin_14/engage/engagetrigger_14_1_2 race_bin_14
+update_field gameplay race_bin_14/engage/engagetrigger_14_1_2 CollectionName race_bin_14/engage/engagetrigger_14_1_2
+update_field gameplay race_bin_14/engage/engagetrigger_14_1_2 Name race_bin_14/engage/engagetrigger_14_1_2
+update_field gameplay race_bin_14/engage/engagetrigger_14_1_2 TargetActivity race_bin_14/14_1_2_circuit
+update_field gameplay race_bin_14/engage Children[5] race_bin_14/engage/engagetrigger_14_1_2
+update_field gameplay race_bin_14/engage RaceTriggers[5] race_bin_14/engage/engagetrigger_14_1_2
+update_field gameplay race_bin_14 WorldRaces[5] race_bin_14/14_1_2_circuit
+update_field gameplay race_bin_14 Children[7] race_bin_14/14_1_2_circuit
+update_field gameplay race_bin_14/14_1_2_circuit IntroNIS GenericStart
+update_field gameplay race_bin_14/14_1_2_circuit TrafficLevel 31
+rename_node gameplay  x/14_2_2_sprint race_bin_14/14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint CollectionName race_bin_14/14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint Name race_bin_14/14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint gameplayvault 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[0] race_bin_14/14_2_3_sprint/ai_cp1
+rename_node gameplay x/14_2_2_sprint/ai_cp1 race_bin_14/14_2_3_sprint/ai_cp1
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp1 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp1 Name race_bin_14/14_2_3_sprint/ai_cp1
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp1 CollectionName race_bin_14/14_2_3_sprint/ai_cp1
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[1] race_bin_14/14_2_3_sprint/ai_cp2
+rename_node gameplay x/14_2_2_sprint/ai_cp2 race_bin_14/14_2_3_sprint/ai_cp2
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp2 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp2 Name race_bin_14/14_2_3_sprint/ai_cp2
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp2 CollectionName race_bin_14/14_2_3_sprint/ai_cp2
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[2] race_bin_14/14_2_3_sprint/ai_cp3
+rename_node gameplay x/14_2_2_sprint/ai_cp3 race_bin_14/14_2_3_sprint/ai_cp3
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp3 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp3 Name race_bin_14/14_2_3_sprint/ai_cp3
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp3 CollectionName race_bin_14/14_2_3_sprint/ai_cp3
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[3] race_bin_14/14_2_3_sprint/ai_cp4
+rename_node gameplay x/14_2_2_sprint/ai_cp4 race_bin_14/14_2_3_sprint/ai_cp4
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp4 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp4 Name race_bin_14/14_2_3_sprint/ai_cp4
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp4 CollectionName race_bin_14/14_2_3_sprint/ai_cp4
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[4] race_bin_14/14_2_3_sprint/ai_cp5
+rename_node gameplay x/14_2_2_sprint/ai_cp5 race_bin_14/14_2_3_sprint/ai_cp5
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp5 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp5 Name race_bin_14/14_2_3_sprint/ai_cp5
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp5 CollectionName race_bin_14/14_2_3_sprint/ai_cp5
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[5] race_bin_14/14_2_3_sprint/ai_cp6
+rename_node gameplay x/14_2_2_sprint/ai_cp6 race_bin_14/14_2_3_sprint/ai_cp6
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp6 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp6 Name race_bin_14/14_2_3_sprint/ai_cp6
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp6 CollectionName race_bin_14/14_2_3_sprint/ai_cp6
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[6] race_bin_14/14_2_3_sprint/ai_cp7
+rename_node gameplay x/14_2_2_sprint/ai_cp7 race_bin_14/14_2_3_sprint/ai_cp7
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp7 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp7 Name race_bin_14/14_2_3_sprint/ai_cp7
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp7 CollectionName race_bin_14/14_2_3_sprint/ai_cp7
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[7] race_bin_14/14_2_3_sprint/ai_cp8
+rename_node gameplay x/14_2_2_sprint/ai_cp8 race_bin_14/14_2_3_sprint/ai_cp8
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp8 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp8 Name race_bin_14/14_2_3_sprint/ai_cp8
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp8 CollectionName race_bin_14/14_2_3_sprint/ai_cp8
+update_field gameplay race_bin_14/14_2_3_sprint Checkpoint[8] race_bin_14/14_2_3_sprint/ai_cp9
+rename_node gameplay x/14_2_2_sprint/ai_cp9 race_bin_14/14_2_3_sprint/ai_cp9
+change_vault gameplay race_bin_14/14_2_3_sprint/ai_cp9 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp9 Name race_bin_14/14_2_3_sprint/ai_cp9
+update_field gameplay race_bin_14/14_2_3_sprint/ai_cp9 CollectionName race_bin_14/14_2_3_sprint/ai_cp9
+update_field gameplay race_bin_14/14_2_3_sprint racestart race_bin_14/14_2_3_sprint/14_2_3_startgrid
+rename_node gameplay x/race_bin_14/14_2_2_sprint/14_2_2_startgrid race_bin_14/14_2_3_sprint/14_2_3_startgrid
+change_vault gameplay race_bin_14/14_2_3_sprint/14_2_3_startgrid 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/14_2_3_startgrid CollectionName race_bin_14/14_2_3_sprint/14_2_3_startgrid
+update_field gameplay race_bin_14/14_2_3_sprint/14_2_3_startgrid Name race_bin_14/14_2_3_sprint/14_2_3_startgrid
+update_field gameplay race_bin_14/14_2_3_sprint racefinish race_bin_14/14_2_3_sprint/14_2_3_finishline
+rename_node gameplay x/race_bin_14/14_2_2_sprint/14_2_2_finishline race_bin_14/14_2_3_sprint/14_2_3_finishline
+change_vault gameplay race_bin_14/14_2_3_sprint/14_2_3_finishline 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/14_2_3_finishline CollectionName race_bin_14/14_2_3_sprint/14_2_3_finishline
+update_field gameplay race_bin_14/14_2_3_sprint/14_2_3_finishline Name race_bin_14/14_2_3_sprint/14_2_3_finishline
+update_field gameplay race_bin_14/14_2_3_sprint Shortcuts[0] race_bin_14/14_2_3_sprint/shortcut1
+rename_node gameplay x/race_bin_14/14_2_2_sprint/shortcut1 race_bin_14/14_2_3_sprint/shortcut1
+change_vault gameplay race_bin_14/14_2_3_sprint/shortcut1 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/shortcut1 Name race_bin_14/14_2_3_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_3_sprint/shortcut1 CollectionName race_bin_14/14_2_3_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_3_sprint Shortcuts[1] race_bin_14/14_2_3_sprint/shortcut2
+rename_node gameplay x/race_bin_14/14_2_2_sprint/shortcut2 race_bin_14/14_2_3_sprint/shortcut2
+change_vault gameplay race_bin_14/14_2_3_sprint/shortcut2 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/shortcut2 Name race_bin_14/14_2_3_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_3_sprint/shortcut2 CollectionName race_bin_14/14_2_3_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_3_sprint Children[0] race_bin_14/14_2_3_sprint/startgrid
+update_field gameplay race_bin_14/14_2_3_sprint Children[1] race_bin_14/14_2_3_sprint/finishline
+update_field gameplay race_bin_14/14_2_3_sprint Children[2] race_bin_14/14_2_3_sprint/checkpoint1
+update_field gameplay race_bin_14/14_2_3_sprint Children[3] race_bin_14/14_2_3_sprint/checkpoint2
+update_field gameplay race_bin_14/14_2_3_sprint Children[4] race_bin_14/14_2_3_sprint/checkpoint3
+update_field gameplay race_bin_14/14_2_3_sprint Children[5] race_bin_14/14_2_3_sprint/checkpoint4
+update_field gameplay race_bin_14/14_2_3_sprint Children[6] race_bin_14/14_2_3_sprint/checkpoint5
+update_field gameplay race_bin_14/14_2_3_sprint Children[7] race_bin_14/14_2_3_sprint/checkpoint6
+update_field gameplay race_bin_14/14_2_3_sprint Children[8] race_bin_14/14_2_3_sprint/checkpoint7
+update_field gameplay race_bin_14/14_2_3_sprint Children[9] race_bin_14/14_2_3_sprint/checkpoint8
+update_field gameplay race_bin_14/14_2_3_sprint Children[10] race_bin_14/14_2_3_sprint/checkpoint9
+update_field gameplay race_bin_14/14_2_3_sprint Children[11] race_bin_14/14_2_3_sprint/wrongway
+rename_node gameplay x/race_bin_14/14_2_2_sprint/wrongway race_bin_14/14_2_3_sprint/wrongway
+change_vault gameplay race_bin_14/14_2_3_sprint/wrongway 14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint/wrongway Name race_bin_14/14_2_3_sprint/wrongway
+update_field gameplay race_bin_14/14_2_3_sprint/wrongway CollectionName race_bin_14/14_2_3_sprint/wrongway
+update_field gameplay race_bin_14/14_2_3_sprint Children[12] race_bin_14/14_2_3_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_3_sprint Children[13] race_bin_14/14_2_3_sprint/shortcut2
+rename_node gameplay x/race_bin_14/14_2_2_sprint/engage/engagetrigger_14_2_2 race_bin_14/engage/engagetrigger_14_2_3
+change_vault gameplay race_bin_14/engage/engagetrigger_14_2_3 race_bin_14
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_3 CollectionName race_bin_14/engage/engagetrigger_14_2_3
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_3 Name race_bin_14/engage/engagetrigger_14_2_3
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_3 TargetActivity race_bin_14/14_2_3_sprint
+update_field gameplay race_bin_14/engage Children[6] race_bin_14/engage/engagetrigger_14_2_3
+update_field gameplay race_bin_14/engage RaceTriggers[6] race_bin_14/engage/engagetrigger_14_2_3
+add_field gameplay race_bin_14/engage/engagetrigger_14_2_3 InitiallyUnlocked
+update_field gameplay race_bin_14/engage/engagetrigger_14_2_3 InitiallyUnlocked False
+add_field gameplay race_bin_14/14_2_3_sprint BossRace
+update_field gameplay race_bin_14/14_2_3_sprint BossRace True
+add_field gameplay race_bin_14/14_2_3_sprint RivalBestTime
+update_field gameplay race_bin_14/14_2_3_sprint RivalBestTime 260
+resize_field gameplay race_bin_14/14_2_3_sprint Opponents 1
+update_field gameplay race_bin_14/14_2_3_sprint Opponents[0] race_bin_14/vince_kilic
+update_field gameplay race_bin_14/14_2_3_sprint CashValue 0
+add_field gameplay race_bin_14/14_2_3_sprint PostRaceActivity
+update_field gameplay race_bin_14 BossRaces[0] race_bin_14/14_2_3_sprint
+update_field gameplay race_bin_14 Children[8] race_bin_14/14_2_3_sprint
+update_field gameplay race_bin_14/14_2_3_sprint IntroNIS GenericStart
+update_field gameplay race_bin_14/14_2_3_sprint TrafficLevel 71
+rename_node gameplay  x/15_2_1_sprint_reverse race_bin_14/14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint CollectionName race_bin_14/14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint Name race_bin_14/14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint gameplayvault 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[0] race_bin_14/14_2_4_sprint/ai_cp1
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp1 race_bin_14/14_2_4_sprint/ai_cp1
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp1 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp1 Name race_bin_14/14_2_4_sprint/ai_cp1
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp1 CollectionName race_bin_14/14_2_4_sprint/ai_cp1
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[1] race_bin_14/14_2_4_sprint/ai_cp2
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp2 race_bin_14/14_2_4_sprint/ai_cp2
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp2 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp2 Name race_bin_14/14_2_4_sprint/ai_cp2
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp2 CollectionName race_bin_14/14_2_4_sprint/ai_cp2
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[2] race_bin_14/14_2_4_sprint/ai_cp3
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp3 race_bin_14/14_2_4_sprint/ai_cp3
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp3 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp3 Name race_bin_14/14_2_4_sprint/ai_cp3
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp3 CollectionName race_bin_14/14_2_4_sprint/ai_cp3
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[3] race_bin_14/14_2_4_sprint/ai_cp4
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp4 race_bin_14/14_2_4_sprint/ai_cp4
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp4 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp4 Name race_bin_14/14_2_4_sprint/ai_cp4
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp4 CollectionName race_bin_14/14_2_4_sprint/ai_cp4
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[4] race_bin_14/14_2_4_sprint/ai_cp5
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp5 race_bin_14/14_2_4_sprint/ai_cp5
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp5 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp5 Name race_bin_14/14_2_4_sprint/ai_cp5
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp5 CollectionName race_bin_14/14_2_4_sprint/ai_cp5
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[5] race_bin_14/14_2_4_sprint/ai_cp6
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp6 race_bin_14/14_2_4_sprint/ai_cp6
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp6 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp6 Name race_bin_14/14_2_4_sprint/ai_cp6
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp6 CollectionName race_bin_14/14_2_4_sprint/ai_cp6
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[6] race_bin_14/14_2_4_sprint/ai_cp7
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp7 race_bin_14/14_2_4_sprint/ai_cp7
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp7 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp7 Name race_bin_14/14_2_4_sprint/ai_cp7
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp7 CollectionName race_bin_14/14_2_4_sprint/ai_cp7
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[7] race_bin_14/14_2_4_sprint/ai_cp8
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp8 race_bin_14/14_2_4_sprint/ai_cp8
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp8 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp8 Name race_bin_14/14_2_4_sprint/ai_cp8
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp8 CollectionName race_bin_14/14_2_4_sprint/ai_cp8
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[8] race_bin_14/14_2_4_sprint/ai_cp9
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp9 race_bin_14/14_2_4_sprint/ai_cp9
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp9 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp9 Name race_bin_14/14_2_4_sprint/ai_cp9
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp9 CollectionName race_bin_14/14_2_4_sprint/ai_cp9
+update_field gameplay race_bin_14/14_2_4_sprint Checkpoint[9] race_bin_14/14_2_4_sprint/ai_cp10
+rename_node gameplay x/15_2_1_sprint_reverse/ai_cp10 race_bin_14/14_2_4_sprint/ai_cp10
+change_vault gameplay race_bin_14/14_2_4_sprint/ai_cp10 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp10 Name race_bin_14/14_2_4_sprint/ai_cp10
+update_field gameplay race_bin_14/14_2_4_sprint/ai_cp10 CollectionName race_bin_14/14_2_4_sprint/ai_cp10
+update_field gameplay race_bin_14/14_2_4_sprint racestart race_bin_14/14_2_4_sprint/startgrid
+rename_node gameplay x/race_bin_14/15_2_1_sprint_reverse/startgrid race_bin_14/14_2_4_sprint/startgrid
+change_vault gameplay race_bin_14/14_2_4_sprint/startgrid 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/startgrid CollectionName race_bin_14/14_2_4_sprint/startgrid
+update_field gameplay race_bin_14/14_2_4_sprint/startgrid Name race_bin_14/14_2_4_sprint/startgrid
+update_field gameplay race_bin_14/14_2_4_sprint racefinish race_bin_14/14_2_4_sprint/finishline
+rename_node gameplay x/race_bin_14/15_2_1_sprint_reverse/finishline race_bin_14/14_2_4_sprint/finishline
+change_vault gameplay race_bin_14/14_2_4_sprint/finishline 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/finishline CollectionName race_bin_14/14_2_4_sprint/finishline
+update_field gameplay race_bin_14/14_2_4_sprint/finishline Name race_bin_14/14_2_4_sprint/finishline
+update_field gameplay race_bin_14/14_2_4_sprint Shortcuts[0] race_bin_14/14_2_4_sprint/shortcut1
+rename_node gameplay x/race_bin_14/15_2_1_sprint_reverse/shortcut1 race_bin_14/14_2_4_sprint/shortcut1
+change_vault gameplay race_bin_14/14_2_4_sprint/shortcut1 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/shortcut1 Name race_bin_14/14_2_4_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_4_sprint/shortcut1 CollectionName race_bin_14/14_2_4_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_4_sprint Shortcuts[1] race_bin_14/14_2_4_sprint/shortcut2
+rename_node gameplay x/race_bin_14/15_2_1_sprint_reverse/shortcut2 race_bin_14/14_2_4_sprint/shortcut2
+change_vault gameplay race_bin_14/14_2_4_sprint/shortcut2 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/shortcut2 Name race_bin_14/14_2_4_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_4_sprint/shortcut2 CollectionName race_bin_14/14_2_4_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_4_sprint Shortcuts[2] race_bin_14/14_2_4_sprint/shortcut3
+rename_node gameplay x/race_bin_14/15_2_1_sprint_reverse/shortcut3 race_bin_14/14_2_4_sprint/shortcut3
+change_vault gameplay race_bin_14/14_2_4_sprint/shortcut3 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/shortcut3 Name race_bin_14/14_2_4_sprint/shortcut3
+update_field gameplay race_bin_14/14_2_4_sprint/shortcut3 CollectionName race_bin_14/14_2_4_sprint/shortcut3
+update_field gameplay race_bin_14/14_2_4_sprint Children[0] race_bin_14/14_2_4_sprint/startgrid
+update_field gameplay race_bin_14/14_2_4_sprint Children[1] race_bin_14/14_2_4_sprint/checkpoint1
+update_field gameplay race_bin_14/14_2_4_sprint Children[2] race_bin_14/14_2_4_sprint/checkpoint2
+update_field gameplay race_bin_14/14_2_4_sprint Children[3] race_bin_14/14_2_4_sprint/checkpoint3
+update_field gameplay race_bin_14/14_2_4_sprint Children[4] race_bin_14/14_2_4_sprint/checkpoint4
+update_field gameplay race_bin_14/14_2_4_sprint Children[5] race_bin_14/14_2_4_sprint/checkpoint5
+update_field gameplay race_bin_14/14_2_4_sprint Children[6] race_bin_14/14_2_4_sprint/checkpoint6
+update_field gameplay race_bin_14/14_2_4_sprint Children[7] race_bin_14/14_2_4_sprint/checkpoint7
+update_field gameplay race_bin_14/14_2_4_sprint Children[8] race_bin_14/14_2_4_sprint/checkpoint8
+update_field gameplay race_bin_14/14_2_4_sprint Children[9] race_bin_14/14_2_4_sprint/finishline
+update_field gameplay race_bin_14/14_2_4_sprint Children[10] race_bin_14/14_2_4_sprint/checkpoint9
+update_field gameplay race_bin_14/14_2_4_sprint Children[11] race_bin_14/14_2_4_sprint/checkpoint10
+update_field gameplay race_bin_14/14_2_4_sprint Children[12] race_bin_14/14_2_4_sprint/wrongway
+rename_node gameplay x/race_bin_14/15_2_1_sprint_reverse/wrongway race_bin_14/14_2_4_sprint/wrongway
+change_vault gameplay race_bin_14/14_2_4_sprint/wrongway 14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint/wrongway Name race_bin_14/14_2_4_sprint/wrongway
+update_field gameplay race_bin_14/14_2_4_sprint/wrongway CollectionName race_bin_14/14_2_4_sprint/wrongway
+update_field gameplay race_bin_14/14_2_4_sprint Children[13] race_bin_14/14_2_4_sprint/shortcut1
+update_field gameplay race_bin_14/14_2_4_sprint Children[14] race_bin_14/14_2_4_sprint/shortcut2
+update_field gameplay race_bin_14/14_2_4_sprint Children[15] race_bin_14/14_2_4_sprint/shortcut3
+delete_node gameplay  x/race_bin_14/15_2_1_sprint_reverse/engage/engagetrigger_15_2_1
+update_field gameplay race_bin_14/14_2_4_sprint BossRace True
+update_field gameplay race_bin_14/14_2_4_sprint RivalBestTime 336
+resize_field gameplay race_bin_14/14_2_4_sprint Opponents 1
+update_field gameplay race_bin_14/14_2_4_sprint Opponents[0] race_bin_14/vince_kilic
+update_field gameplay race_bin_14/14_2_3_sprint PostRaceActivity race_bin_14/14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint CashValue 3486
+update_field gameplay race_bin_14/14_2_4_sprint IsMarkerRace True
+update_field gameplay race_bin_14/14_2_4_sprint RewardsForWinner[0] race_bin_14/rewards/reward_add_impound_box1
+update_field gameplay race_bin_14/14_2_4_sprint RewardsForWinner[1] race_bin_14/rewards/reward_cash_bonus
+update_field gameplay race_bin_14/14_2_4_sprint RewardsForWinner[2] race_bin_14/rewards/reward_chassis
+update_field gameplay race_bin_14/14_2_4_sprint RewardsForWinner[3] race_bin_14/rewards/reward_hood
+update_field gameplay race_bin_14/14_2_4_sprint RewardsForWinner[4] race_bin_14/rewards/reward_pink_slip1
+update_field gameplay race_bin_14/14_2_4_sprint RewardsForWinner[5] race_bin_14/rewards/reward_vinyl
+update_field gameplay race_bin_14 BossRaces[1] race_bin_14/14_2_4_sprint
+update_field gameplay race_bin_14 Children[10] race_bin_14/14_2_4_sprint
+update_field gameplay race_bin_14/14_2_4_sprint IntroNIS IntroNis03
+update_field gameplay race_bin_14/14_2_4_sprint TrafficLevel 78
